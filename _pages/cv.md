@@ -38,8 +38,8 @@ Work experience
 Skills
 ======
 * Statistical Analysis and Computation: `Python, R, STATA`
-* Spatial Databases: PostgreSQL, PostGIS
-* Spatial Analysis and GIS: GeoDa, QGIS, ArcGIS, Google Earth Engine
+* Spatial Databases: `PostgreSQL, PostGIS`
+* Spatial Analysis and GIS: `GeoDa, QGIS, ArcGIS, Google Earth Engine`
 * MS Office Suite (including Excel)
 
 Publications
