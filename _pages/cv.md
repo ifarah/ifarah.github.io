@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in **City & Regional Science, UC Berkeley**, 2024 (expected)
+* Ph.D in **City & Regional Science, UC Berkeley**, 2024 *(expected)*
 * M.A. in **Social Sciences, University of Chicago**, 2017
   - Thesis: A Geospatial Analysis of Mexico’s Distal Effects on Food Insecurity
 * B.A. in **Political Science, ITAM**, 2013
@@ -28,7 +28,7 @@ Work experience
   * *Duties included: Estimating heatwaves for 371 Latin American cities.*
 
 * **Center for Spatial Data Science, University of Chicago** (Research Associate)
-  * August 2017 - August 2029
+  * August 2017 - August 2019
   * *Duties included: Estimating heatwaves for 371 Latin American cities.*
 
 * **National Council for the Evaluation of Social Development Policy (CONEVAL), Mexico City** (Research Advisor for Executive Secretary)
@@ -48,18 +48,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Manuscript Reviews
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* 
+Berkeley Planning Journal (co-editor), Environment and Planning B: Urban Analytics and City Science, Journal of
+Urbanism: International Research on Placemaking and Urban Sustainability, Housing Policy Debate, Transportation
+Review Board, Geographical Analysis, Journal of Urbanism: International Research on Placemaking and Urban
+Sustainability.
+
