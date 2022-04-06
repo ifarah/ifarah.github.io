@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Political Science, ITAM, 2009
+* B.A. in Political Science, ITAM, 2013
 * M.A. in Social Sciences, University of Chicago, 2016
 * Ph.D in City & Regional Science, UC Berkeley, 2024 (expected)
 
