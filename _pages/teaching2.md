@@ -9,51 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+UC Berkeley
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Graduate Student Instructor in **Introduction to Urban Data Analytics**, *Spring 2021*
+* Graduate Student Instructor in **Introduction to City Planning**, *Fall 2021*
+* Graduate Student Instructor in **Urban Informatics and Visualization** (graduate), *Fall 2020, 2022*
+* Instructor for DLab's **US Census** and **R Geospatial Fundamentals*** workshops, *Fall 2022*
 
-Work experience
+Instituto Tecnológico Autónomo de México
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Teaching Assistant in **Game Theory**, *Fall 2013*
