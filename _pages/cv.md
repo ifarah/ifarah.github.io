@@ -19,21 +19,21 @@ Education
 
 Work experience
 ======
-* Summer 2021: Internship
-  * **Women in Informal Employment, Globalizing and Organizing, WIEGO**
-  * Duties included: Interviewing vendors
+* **Women in Informal Employment, Globalizing and Organizing, WIEGO** (Internship)
+  * Summer 2021
+  * *Duties included: Interviewing vendors*
 
-* August 2019 - August 2020: Graduate Researcher
-  * **Institute of Urban and Regional Development, UC Berkeley**
-  * Duties included: Estimating heatwaves for 371 Latin American cities.
+* **Institute of Urban and Regional Development, UC Berkeley** (Graduate Researcher)
+  * August 2019 - August 2020
+  * *Duties included: Estimating heatwaves for 371 Latin American cities.*
 
-* August 2017 - August 2029: Research Associate
-  * **Center for Spatial Data Science, University of Chicago**
-  * Duties included: Estimating heatwaves for 371 Latin American cities.
+* **Center for Spatial Data Science, University of Chicago** (Research Associate)
+  * August 2017 - August 2029
+  * *Duties included: Estimating heatwaves for 371 Latin American cities.*
 
-* August 2014 - November 2015: Research Advisor for Executive Secretary
-  * **National Council for the Evaluation of Social Development Policy (CONEVAL), Mexico City**
-  * Duties included: Multidimensional poverty and social development indicators for economic analysis.
+* **National Council for the Evaluation of Social Development Policy (CONEVAL), Mexico City** (Research Advisor for Executive Secretary)
+  * August 2014 - November 2015
+  * *Duties included: Multidimensional poverty and social development indicators for economic analysis.*
   
 Skills
 ======
