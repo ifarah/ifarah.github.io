@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Irene Farah"
-  avatar           : "profile2.png"
+  avatar           : "images/profile2.png"
   bio              : "PhD Candidate in City & Regional Planning at UC Berkeley"
   location         : "San Francisco, USA"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : "irenef at berkeley dot edu"
+  email            : "irenef@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
