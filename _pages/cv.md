@@ -42,11 +42,14 @@ Skills
 * Spatial Analysis and GIS: `GeoDa, QGIS, ArcGIS, Google Earth Engine`
 * MS Office Suite (including Excel)
 
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+-->
   
 Manuscript Reviews
 ======
