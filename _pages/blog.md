@@ -11,4 +11,4 @@ redirect_from:
 
 * [<ins>Enumeration of Informal Work<ins>](https://dlab.berkeley.edu/news/enumeration-informal-work)    
 March 1, 2022    
-*Topics: Data Sciencetopic page, Geospatial Data, Maps & Spatial Analysistopic page, Visualization*
+*Topics: Data Science, Geospatial Data, Maps & Spatial Analysis, Visualization*
