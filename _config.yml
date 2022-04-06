@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Irene Farah"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in City & Regional Planning at UC Berkeley"
+  bio              : "PhD Candidate in"  +
+  "City & Regional Planning" + 
+  "at UC Berkeley"
   location         : "San Francisco, USA"
   employer         :
   pubmed           :
