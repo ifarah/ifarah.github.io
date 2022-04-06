@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-* [<ins>Enumeration of Informal Work<ins>](https://dlab.berkeley.edu/news/enumeration-informal-work)    
+* <ins>[Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)<ins>    
 March 1, 2022    
 *Topics: Data Science, Geospatial Data, Maps & Spatial Analysis, Visualization*
