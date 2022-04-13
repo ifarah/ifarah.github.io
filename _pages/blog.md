@@ -19,4 +19,7 @@ redirect_from:
 ![](images/biomigrations.png)
   
   *Topics: Food, Sovereignity, Justice, Latin American Studies*
+  
+  https://dlab.berkeley.edu/news/dbplyr-do-we-still-need-learn-sql-create-and-manage-databases
 
+![alt text](https://github.com/ifarah//blob/master/images/biomigrations.jpg?raw=true)
