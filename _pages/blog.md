@@ -14,7 +14,7 @@ redirect_from:
   April 11, 2022  
   *Topics: Databases, R, SQL, dbplyr, Latin American Studies*
   
-======
+---------
 
 * [Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)   
   
@@ -31,7 +31,9 @@ redirect_from:
     
   November 22, 2021  
   *Topics: Health, Food, Spatial Location, Street Vendors, Latin American Studies*
-  
+
+---------
+
 * [Not Your Typical Food Conference: A Reflection on the Biomigrations Conference](https://clasberkeley.wpcomstaging.com/2021/05/05/not-your-typical-food-conference-a-reflection-on-the-biomigrations-conference/)   
     
     <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/biomigrations.png" width="250" height="150">   
@@ -39,7 +41,7 @@ redirect_from:
   May 5, 2021  
   *Topics: Food, Sovereignity, Justice, Latin American Studies*
   
-  
+---------
 
 
 
