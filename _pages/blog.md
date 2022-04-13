@@ -27,7 +27,7 @@ redirect_from:
 
 * [Urban governance and health conditions of street vendors in Mexico City](https://clas.berkeley.edu/publications/urban-governance-and-health-conditions-street-vendors-mexico-city)   
     
-    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv.png" width="230" height="260">   
+    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv.png" width="230" height="270">   
     
   November 22, 2021  
   *Topics: Health, Food, Spatial Location, Street Vendors, Latin American Studies*
@@ -36,7 +36,7 @@ redirect_from:
 
 * [Not Your Typical Food Conference: A Reflection on the Biomigrations Conference](https://clasberkeley.wpcomstaging.com/2021/05/05/not-your-typical-food-conference-a-reflection-on-the-biomigrations-conference/)   
     
-    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/biomigrations.png" width="250" height="150">   
+    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/biomigrations.png" width="260" height="170">   
     
   May 5, 2021  
   *Topics: Food, Sovereignity, Justice, Latin American Studies*
