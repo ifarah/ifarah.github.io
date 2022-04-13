@@ -18,7 +18,7 @@ redirect_from:
 
 * [Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)   
   
-  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="220">   
+  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="200">   
  
   March 1, 2022  
   *Topics: Geospatial Data, Informal Work, Maps & Spatial Analysis, Visualization*
@@ -27,7 +27,7 @@ redirect_from:
 
 * [Urban governance and health conditions of street vendors in Mexico City](https://clas.berkeley.edu/publications/urban-governance-and-health-conditions-street-vendors-mexico-city)   
     
-    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv.png" width="230" height="270">   
+    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv.png" width="230" height="280">   
     
   November 22, 2021  
   *Topics: Health, Food, Spatial Location, Street Vendors, Latin American Studies*
