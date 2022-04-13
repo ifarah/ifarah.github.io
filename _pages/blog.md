@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-* [dbplyr: Do we still need learn SQL create and manage databases?](https://dlab.berkeley.edu/news/dbplyr-do-we-still-need-learn-sql-create-and-manage-databases)   
+* [dbplyr: Do we still need to learn SQL to create and manage databases?](https://dlab.berkeley.edu/news/dbplyr-do-we-still-need-learn-sql-create-and-manage-databases)   
   
   <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="280" height="160">   
   
