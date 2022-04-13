@@ -14,6 +14,8 @@ redirect_from:
   April 11, 2022  
   *Topics: Databases, R, SQL, dbplyr, Latin American Studies*
   
+======
+
 * [Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)   
   
   <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="200">   
@@ -21,6 +23,8 @@ redirect_from:
   March 1, 2022  
   *Topics: Data Science, Geospatial Data, Maps & Spatial Analysis, Visualization*
   
+---------
+
 * [Urban governance and health conditions of street vendors in Mexico City](https://clas.berkeley.edu/publications/urban-governance-and-health-conditions-street-vendors-mexico-city)   
     
     <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv.png" width="230" height="260">   
