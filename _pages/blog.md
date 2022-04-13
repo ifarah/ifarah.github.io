@@ -23,3 +23,5 @@ redirect_from:
   https://dlab.berkeley.edu/news/dbplyr-do-we-still-need-learn-sql-create-and-manage-databases
 
 ![alt text](https://github.com/ifarah//blob/master/images/biomigrations.png?raw=true)
+
+![alt text](https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png)
