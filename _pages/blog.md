@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 * [dbplyr: Do we still need learn SQL create and manage databases?](https://dlab.berkeley.edu/news/dbplyr-do-we-still-need-learn-sql-create-and-manage-databases)   
-    ![alt text](https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png=100x20)
+    ![alt text](https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png | width=100)
     April 11, 2022
   *Topics: Databases, R, SQL, dbplyr, Latin American Studies*
   
 * [Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)   
   March 1, 2022
-  ![alt text](https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png=100x20)
+  ![alt text](https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png =100x20)
   *Topics: Data Science, Geospatial Data, Maps & Spatial Analysis, Visualization*
   
 * [Urban governance and health conditions of street vendors in Mexico City](https://clas.berkeley.edu/publications/urban-governance-and-health-conditions-street-vendors-mexico-city)   
@@ -29,5 +29,5 @@ redirect_from:
   
   
 
-
+<img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/biomigrations.png" width="100" height="100">
 
