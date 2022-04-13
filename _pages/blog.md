@@ -9,7 +9,7 @@ redirect_from:
 
 * [dbplyr: Do we still need learn SQL create and manage databases?](https://dlab.berkeley.edu/news/dbplyr-do-we-still-need-learn-sql-create-and-manage-databases)   
   
-  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="280" height="170">   
+  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="280" height="160">   
   
   April 11, 2022  
   *Topics: Databases, R, SQL, dbplyr, Latin American Studies*
