@@ -12,16 +12,16 @@ redirect_from:
   <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="280" height="160">   
   
   April 11, 2022  
-  *Topics: Databases, R, SQL, dbplyr, Latin American Studies*
+  *Topics: Databases, R, SQL, dbplyr, Parallel GNU*
   
 ---------
 
 * [Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)   
   
-  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="200">   
+  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="220">   
  
   March 1, 2022  
-  *Topics: Data Science, Geospatial Data, Maps & Spatial Analysis, Visualization*
+  *Topics: Geospatial Data, Informal Work, Maps & Spatial Analysis, Visualization*
   
 ---------
 
