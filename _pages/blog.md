@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 * [dbplyr: Do we still need learn SQL create and manage databases?](https://dlab.berkeley.edu/news/dbplyr-do-we-still-need-learn-sql-create-and-manage-databases)   
-  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="250" height="150">
+  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="270" height="150">
     April 11, 2022
   *Topics: Databases, R, SQL, dbplyr, Latin American Studies*
   
 * [Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)   
   March 1, 2022
-  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="150">
+  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="200">
   *Topics: Data Science, Geospatial Data, Maps & Spatial Analysis, Visualization*
   
 * [Urban governance and health conditions of street vendors in Mexico City](https://clas.berkeley.edu/publications/urban-governance-and-health-conditions-street-vendors-mexico-city)   
-    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv.png" width="250" height="150">
+    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv.png" width="230" height="250">
     November 22, 2021
   *Topics: Health, Food, Spatial Location, Street Vendors, Latin American Studies*
   
