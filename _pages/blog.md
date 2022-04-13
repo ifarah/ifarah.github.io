@@ -18,7 +18,7 @@ redirect_from:
 
 * [Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)   
   
-  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="200">   
+  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="210">   
  
   March 1, 2022  
   *Topics: Geospatial Data, Informal Work, Maps & Spatial Analysis, Visualization*
