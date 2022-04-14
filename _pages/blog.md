@@ -11,7 +11,6 @@ redirect_from:
   
 <!---<img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="280" height="160">    
 #![](https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png) --->
-  
   April 11, 2022  
   *Topics: Databases, R, SQL, dbplyr, Parallel GNU*
   
@@ -19,8 +18,7 @@ redirect_from:
 
 * [Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)   
   
-  <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="210">   
- 
+<!--- <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="210">   --->
   March 1, 2022  
   *Topics: Geospatial Data, Informal Work, Maps & Spatial Analysis, Visualization*
   
@@ -28,8 +26,7 @@ redirect_from:
 
 * [Urban governance and health conditions of street vendors in Mexico City](https://clas.berkeley.edu/publications/urban-governance-and-health-conditions-street-vendors-mexico-city)   
     
-    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv.png" width="230" height="280">   
-    
+<!---    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv.png" width="230" height="280">   --->   
   November 22, 2021  
   *Topics: Health, Food, Spatial Location, Street Vendors, Latin American Studies*
 
@@ -37,8 +34,7 @@ redirect_from:
 
 * [Not Your Typical Food Conference: A Reflection on the Biomigrations Conference](https://clasberkeley.wpcomstaging.com/2021/05/05/not-your-typical-food-conference-a-reflection-on-the-biomigrations-conference/)   
     
-    <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/biomigrations.png" width="260" height="170">   
-    
+<!--- <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/biomigrations.png" width="260" height="170">   --->   
   May 5, 2021  
   *Topics: Food, Sovereignity, Justice, Latin American Studies*
   
