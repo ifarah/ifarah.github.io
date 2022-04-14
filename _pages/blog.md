@@ -11,7 +11,7 @@ redirect_from:
   
   <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="280" height="160">    
   
-  ! [](https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png)
+  ![](https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png)
   
   April 11, 2022  
   *Topics: Databases, R, SQL, dbplyr, Parallel GNU*
