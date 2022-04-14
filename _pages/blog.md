@@ -9,8 +9,8 @@ redirect_from:
 
 * [dbplyr: Do we still need to learn SQL to create and manage databases?](https://dlab.berkeley.edu/news/dbplyr-do-we-still-need-learn-sql-create-and-manage-databases)   
   
-#<img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="280" height="160">    
-#![](https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png)
+<!---<img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="280" height="160">    
+#![](https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png) --->
   
   April 11, 2022  
   *Topics: Databases, R, SQL, dbplyr, Parallel GNU*
