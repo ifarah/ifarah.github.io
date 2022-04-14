@@ -11,16 +11,16 @@ redirect_from:
   
 <!---<img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png" width="280" height="160">    
 #![](https://github.com/ifarah/ifarah.github.io/blob/master/images/dbplyr.png) --->
-  April 11, 2022  
-  *Topics: Databases, R, SQL, dbplyr, Parallel GNU*
+    April 11, 2022  
+    *Topics: Databases, R, SQL, dbplyr, Parallel GNU*
   
 ---------
 
 * [Enumeration of Informal Work](https://dlab.berkeley.edu/news/enumeration-informal-work)   
   
 <!--- <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png" width="250" height="210">   --->
-  March 1, 2022  
-  *Topics: Geospatial Data, Informal Work, Maps & Spatial Analysis, Visualization*
+    March 1, 2022  
+    *Topics: Geospatial Data, Informal Work, Maps & Spatial Analysis, Visualization*
   
 ---------
 
@@ -35,8 +35,8 @@ redirect_from:
 * [Not Your Typical Food Conference: A Reflection on the Biomigrations Conference](https://clasberkeley.wpcomstaging.com/2021/05/05/not-your-typical-food-conference-a-reflection-on-the-biomigrations-conference/)   
     
 <!--- <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/biomigrations.png" width="260" height="170">   --->   
-  May 5, 2021  
-  *Topics: Food, Sovereignity, Justice, Latin American Studies*
+    May 5, 2021  
+    *Topics: Food, Sovereignity, Justice, Latin American Studies*
   
 ---------
 
