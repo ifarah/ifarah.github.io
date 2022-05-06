@@ -33,6 +33,16 @@ redirect_from:
 
 ---------
 
+* [Not Your Typical Food Conference: A Reflection on the Biomigrations Conference](https://clasberkeley.wpcomstaging.com/2021/05/05/not-your-typical-food-conference-a-reflection-on-the-biomigrations-conference/)   
+    May 5, 2021  
+    *Topics: Food, Sovereignity, Justice, Latin American Studies*
+<!--- <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/biomigrations.png" width="260" height="170">   --->   
+
+  
+---------
+
+
+
 <!DOCTYPE html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -609,12 +619,3 @@ redirect_from:
         
     
 </script>
-
-* [Not Your Typical Food Conference: A Reflection on the Biomigrations Conference](https://clasberkeley.wpcomstaging.com/2021/05/05/not-your-typical-food-conference-a-reflection-on-the-biomigrations-conference/)   
-    May 5, 2021  
-    *Topics: Food, Sovereignity, Justice, Latin American Studies*
-<!--- <img src="https://github.com/ifarah/ifarah.github.io/blob/master/images/biomigrations.png" width="260" height="170">   --->   
-
-  
----------
-
