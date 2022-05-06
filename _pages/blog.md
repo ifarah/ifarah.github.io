@@ -42,4 +42,4 @@ redirect_from:
 ---------
 
 
-<iframe src="m.html" height="500" width="500"></iframe>
+<iframe src="https://github.com/ifarah/ifarah.github.io/blob/master/images/m.html" height="500" width="500"></iframe>
