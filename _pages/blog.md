@@ -41,5 +41,5 @@ redirect_from:
   
 ---------
 
-
-<iframe src="https://github.com/ifarah/ifarah.github.io/blob/master/images/m.html" height="500" width="500"></iframe>
+<script type="module" src="https://unpkg.com/x-frame-bypass"></script>
+<iframe is="x-frame-bypass" style="width: 500px; height: 400px; border: 0px" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/m.html" > </iframe>
