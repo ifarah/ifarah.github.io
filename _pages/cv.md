@@ -32,7 +32,7 @@ Work experience
 
 * **Center for Spatial Data Science, University of Chicago** (Research Associate)
   * August 2017 - August 2019
-  * *Duties included: Estimating heatwaves for 371 Latin American cities.*
+  * *Duties included: Managing a spatial database of 60 million US firms; Extending and documenting open backend infrastructure for travel time network distance and metrics; Developing a historical access scoreacross MSAs and test how it varied across vulnerable populations; Analyzing Big-Box hardware stores' predatory behavior across the US.*
 
 * **National Council for the Evaluation of Social Development Policy (CONEVAL), Mexico City** (Research Advisor for Executive Secretary)
   * August 2014 - November 2015
