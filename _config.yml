@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Irene Farah"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Irene Farah"
 description              : &description "personal description"
