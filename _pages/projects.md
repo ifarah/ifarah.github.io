@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
 # Street Vending in Mexico City
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
