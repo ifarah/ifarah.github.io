@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-# [CV (English)](https://drive.google.com/file/d/11d0W231bilm0dpV0GwrRClhBQHMECWih/view?usp=sharing)
-# [CV (Español)](https://drive.google.com/file/d/1kRYGIoqYJsbCEwb-5gp4YDmDVcAy9XU3/view?usp=sharing)
-<sub>
+<sub>[CV (English)](https://drive.google.com/file/d/11d0W231bilm0dpV0GwrRClhBQHMECWih/view?usp=sharing)<sub>
+  
+<sub>[CV (Español)](https://drive.google.com/file/d/1kRYGIoqYJsbCEwb-5gp4YDmDVcAy9XU3/view?usp=sharing)<sub>
+
 Education
 ======
 * Ph.D in **City & Regional Science, UC Berkeley**, 2024 *(expected)*
@@ -58,10 +59,4 @@ Publications
 
 -->
   
-Manuscript Reviews
-======
-Berkeley Planning Journal (co-editor), Environment and Planning B: Urban Analytics and City Science, Journal of
-Urbanism: International Research on Placemaking and Urban Sustainability, Housing Policy Debate, Transportation
-Review Board, Geographical Analysis, Journal of Urbanism: International Research on Placemaking and Urban
-Sustainability.
-<sub>
+
