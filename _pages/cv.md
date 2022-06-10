@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-# [CV (English)](https://drive.google.com/file/d/11d0W231bilm0dpV0GwrRClhBQHMECWih/view?usp=sharing) //
-# [CV (Spanish)](https://drive.google.com/file/d/11d0W231bilm0dpV0GwrRClhBQHMECWih/view?usp=sharing)
+# [CV (English)](https://drive.google.com/file/d/11d0W231bilm0dpV0GwrRClhBQHMECWih/view?usp=sharing)
+# [CV (Español)](https://drive.google.com/file/d/11d0W231bilm0dpV0GwrRClhBQHMECWih/view?usp=sharing)
 
 Education
 ======
