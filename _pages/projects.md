@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
- Street Vending in Mexico City            |  Street Vending in San Francisco
+ Street Vending in Mexico City            |  Impact of Street Vending Legislation in the Mission District, San Francisco
 :-------------------------:|:-------------------------:
 <img src="../images/sv.png" alt="drawing" width="200"/>  |  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
