@@ -7,7 +7,7 @@ author_profile: true
 
  Street Vending in Mexico City            |  Street Vending in San Francisco
 :-------------------------:|:-------------------------:
-<img src="images/sv.png" alt="drawing" width="200"/>  |  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="../images/sv.png" alt="drawing" width="200"/>  |  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 Retail Food Envionment in Mexico             |  Teaching Critical Spatial Data Science
 :-------------------------:|:-------------------------:
