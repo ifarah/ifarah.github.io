@@ -21,6 +21,6 @@ Retail Food Envionment in Mexico             |  Teaching Critical Spatial Data S
 
 Retail Food Envionment in Mexico             |  Teaching Critical Spatial Data Science
 :-------------------------:|:-------------------------:
-<img src="[drawing.jpg](https://c.tenor.com/nrT1mIfhH9IAAAAd/tom-and-jerry-hungry.gif)" alt="drawing" width="200"/>  |  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://c.tenor.com/nrT1mIfhH9IAAAAd/tom-and-jerry-hungry.gif" alt="drawing" width="200"/>  |  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
