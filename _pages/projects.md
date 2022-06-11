@@ -19,4 +19,4 @@ author_profile: true
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)  |  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
