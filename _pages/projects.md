@@ -3,6 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+header:
+  og_image: "images/bunny.png"
 ---
 
  Street Vending in Mexico City            |  Impact of Street Vending Legislation in the Mission District, San Francisco
