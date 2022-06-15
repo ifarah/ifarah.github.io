@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 header:
-  og_image: "../images/bunny.png"
+  og_image: "images/bunny.png"
 ---
 
 #[Under construction]
