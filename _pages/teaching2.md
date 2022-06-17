@@ -16,8 +16,10 @@ redirect_from:
 * Graduate Student Instructor in **Introduction to City Planning**, *Fall 2021*
 * Graduate Student Instructor in **Urban Informatics and Visualization** (graduate), *Fall 2020, 2022*
   
+  
 ### <ins>Colegio de México<ins>
 * Workshop instructor in **Introduction to Spatial Econometrics**, *Summer 2022*
 
+  
 ### <ins>Instituto Tecnológico Autónomo de México<ins>
 * Teaching Assistant in **Game Theory**, *Fall 2013*
