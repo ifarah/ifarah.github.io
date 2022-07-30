@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in **City & Regional Science, UC Berkeley**, *(currently)*
+* Ph.D in **City & Regional Planning, UC Berkeley**, *(currently)*
 * M.A. in **Social Sciences, University of Chicago**, 2017
   - Thesis: A Geospatial Analysis of Mexico’s Distal Effects on Food Insecurity
 * B.A. in **Political Science, ITAM**, 2013
