@@ -18,7 +18,7 @@ redirect_from:
   
   
 ### <ins>Colegio de México<ins>
-* Workshop instructor in **Introduction to Spatial Econometrics**, *Summer 2022*
+* Workshop instructor in [**Introduction to Spatial Econometrics** (in Spanish)](https://ifarah.github.io/sp_reg/), *Summer 2022*
 
   
 ### <ins>Instituto Tecnológico Autónomo de México<ins>
