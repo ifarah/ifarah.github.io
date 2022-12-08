@@ -43,5 +43,7 @@ The existence of street vendors in public space is as contentious as collecting 
 <img align="left" width="20%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png">
 This project examines how to jointly teach critical GIS and technical mapping methods by creating teaching strategies to answer:  
 (1)  How to think spatially?  
+
 (2)  How to carry out exploratory spatial analysis?  
+
 (3)  How to incorporate critical thinking using technical tools to examine spatial inequities?  
