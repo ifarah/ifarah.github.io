@@ -18,19 +18,19 @@ Public space is a key element of the spatial organization of cities, shedding li
 
 ### The implementation of a street vending ordinance in the Mission District, San Francisco
 
-<img align="left" width="15%" src="https://raw.githubusercontent.com/ifarah/ifarah.github.io/master/images/flores.png"> 
+<img align="left" width="20%" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/ifarah/ifarah.github.io/master/images/flores.png"> 
 
-&nbsp;&nbsp;&nbsp;&nbsp; The government framed the urgency of creating the street vending ordinance around the conspicuous vending of stolen goods and drugs happening outside the 24th and Mission subway station. However, the street vending ordinance missed its target, implementing regulatory measures for street vendors that were not involved in selling stolen goods or drugs. This study  examines the reaction of vendors, community organizations, and street level bureaucrats (e.g., district supervisors, public works officials, and police officers) to the implementation of the street vending ordinance. In particular, this project traces the dynamism of the implementation and explores the unintended socioeconomic consequences of its implementation at the city level.
+The government framed the urgency of creating the street vending ordinance around the conspicuous vending of stolen goods and drugs happening outside the 24th and Mission subway station. However, the street vending ordinance missed its target, implementing regulatory measures for street vendors that were not involved in selling stolen goods or drugs. This study  examines the reaction of vendors, community organizations, and street level bureaucrats (e.g., district supervisors, public works officials, and police officers) to the implementation of the street vending ordinance. In particular, this project traces the dynamism of the implementation and explores the unintended socioeconomic consequences of its implementation at the city level.
 
 ### Retail food environment and incorporating informal food outlets in food policies in Mexico
 
-<img align="left" width="15%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/food.png">
+<img align="left" width="20%"  style="float:left; padding-right:10px" src="/images/food.png">
 I study the **retail food environment in Mexico**, shedding light on how households purchase from a myriad of food and beverage outlets and the importance of incorporating informal outlets in food policy interventions. The results show that the largest proportion of food purchases are carried out in small neighborhood and specialty stores (i.e., _abarroterías_ and _tiendas de ramo_) and that there is no clear categorization of healthy/unhealthy outlets (jointly with [Dalia Stern](https://www.globalfoodresearchprogram.org/team/dalia-stern-solodkin/) and other co-authors). View [_Food and beverage purchases at formal and informal outlets in Mexico_](https://pubmed.ncbi.nlm.nih.gov/36285524/).
 
 
 ### Firm demography
 
-<img align="left" width="15%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/access.png">
+<img align="left" width="20%"  style="float:left; padding-right:10px" src="/images/access.png">
 I examined the sensitivity of **access metrics**, the **co-location** of large chain stores with smaller independent hardware stores, and the **demography of firms** in the United States by using life tables to analyze the probability at which different firm sizes survived or died over time in different geographies (jointly with [Luc Anselin](https://spatial.uchicago.edu/directory/luc-anselin-phd)). View chapters in [_Streetlife: The Future of Urban Retail_](https://urbanism.uchicago.edu/content/streetlife).
 
 ### Mobility of informal workers in Mexico City
@@ -40,12 +40,12 @@ While cities craft policies to regulate work in the formal labor market, where j
 
 ### Enumeration of street vendors through satellite images
 
-<img align="left" width="20%" title="Unequal Scenes" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/unequal.png">
+<img align="left" width="20%"  style="float:left; padding-right:10px" src="/images/unequal.png">
 The existence of street vendors in public space is as contentious as collecting data of their location. The purpose of this research is twofold: 1) to generate an algorithm through computer vision that quantifies fixed street vendors at a large scale; and 2) to carry out analyses between the density of vendors and neighborhood characteristics to assess if the number of people working in public space is associated with socioeconomic status, political party, or the level of presence from vendors’ associations. In order to carry out these analyses I will use images near subway stations from Google Street View and detect street vendors’ stalls by deploying computer vision techniques.
 
 ### Development of a teaching curriculum on critical spatial data science
 
-<img align="left" width="20%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png">
+<img align="left" width="20%"  style="float:left; padding-right:10px" src="/images/enumeration.png">
 This project examines how to jointly teach critical GIS and technical mapping methods by creating teaching strategies to answer:  
 (1)  How to think spatially?  
 
