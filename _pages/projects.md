@@ -8,9 +8,8 @@ header:
 ---
 
 ### The power of street vending associations in Mexico City
-<img align="left" width="20%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/mamey.png">
-
-Even more, the evolution of street vending associations in their relationship with how the state shapes and controls these associations beyond clientelist practices, and how it has varied across municipalities outside of the Historic Center has not yet been examined. In this context, this project examines the extent to which street vending associations regulate and manage public space.  This project is organized around two main comparisons: (1) a comparison of the politics of street vending outside  subway stations in Mexico City; and (2) an over-time comparison at the city level over the course of three periods of time that cover the rule of three different political parties: pre-1997 (PRI rule); 1997-2018 (Partido Revolucionario Democrático, PRD rule); 2018-today (Movimiento de Regeneración Nacional, MORENA rule).
+<img align="left" width="20%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/mamey2.png">
+Public space is a key element of the spatial organization of cities, shedding light on the relationships between state and society. At least from the 19th century, street vendors have claimed and negotiated with Mexico City’s government their access to public space in order to make a living. However, the evolution of street vending associations in their relationship with how the state shapes and controls these associations beyond clientelist practices, and how it has varied across municipalities outside of the Historic Center has not yet been examined. In this context, this project examines the extent to which street vending associations regulate and manage public space.  This project is organized around two main comparisons: (1) a comparison of the politics of street vending outside  subway stations in Mexico City; and (2) an over-time comparison at the city level over the course of three periods of time that cover the rule of three different political parties: pre-1997 (PRI rule); 1997-2018 (Partido Revolucionario Democrático, PRD rule); 2018-today (Movimiento de Regeneración Nacional, MORENA rule).
 
 
 ### The implementation of a street vending ordinance in the Mission District, San Francisco
@@ -33,7 +32,6 @@ While cities craft policies to regulate work in the formal labor market, where j
 ### Enumeration of street vendors through satellite images
 <img align="left" width="20%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/enumeration.png">
 The existence of street vendors in public space is as contentious as collecting data of their location. The purpose of this research is twofold: 1) to generate an algorithm through computer vision that quantifies fixed street vendors at a large scale; and 2) to carry out analyses between the density of vendors and neighborhood characteristics to assess if the number of people working in public space is associated with socioeconomic status, political party, or the level of presence from vendors’ associations. In order to carry out these analyses I will use images near subway stations from Google Street View and detect street vendors’ stalls by deploying computer vision techniques.
-
 
 ### Development of a teaching curriculum on critical spatial data science
 This project examines how to jointly teach critical GIS and technical mapping methods by creating teaching strategies to answer:  
