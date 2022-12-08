@@ -7,9 +7,10 @@ header:
   og_image: "images/bunny.png"
 ---
 
+### The power of street vending associations in Mexico City
+
 <img align="left" width="33%" src="https://i.stack.imgur.com/RJj4x.png">
 
-### The power of street vending associations in Mexico City
 Even more, the evolution of street vending associations in their relationship with how the state shapes and controls these associations beyond clientelist practices, and how it has varied across municipalities outside of the Historic Center has not yet been examined. In this context, this project examines the extent to which street vending associations regulate and manage public space.  This project is organized around two main comparisons: (1) a comparison of the politics of street vending outside  subway stations in Mexico City; and (2) an over-time comparison at the city level over the course of three periods of time that cover the rule of three different political parties: pre-1997 (PRI rule); 1997-2018 (Partido Revolucionario Democrático, PRD rule); 2018-today (Movimiento de Regeneración Nacional, MORENA rule).
 
 ### The power of street vending associations in Mexico City
