@@ -10,6 +10,8 @@ redirect_from:
 
 ![](images/ofrenda2.png)
 
+<img align="center" width="120%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/ofrenda2.png">
+
 Welcome! I am a PhD Candidate in [City & Regional Planning at UC Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).    
 My research revolves mostly around themes of `inequality`, focusing on topics of **labor informality**, **governance**, **public health**, and **spatial analytics**. 
 
