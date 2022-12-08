@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[images/ofrenda.png]
+![](images/ofrenda.png)
 
 Welcome! I am a PhD Candidate in [City & Regional Planning at UC Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).    
 My research revolves mostly around themes of `inequality`, focusing on topics of **labor informality**, **governance**, **public health**, and **spatial analytics**. 
