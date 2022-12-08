@@ -14,18 +14,18 @@ Public space is a key element of the spatial organization of cities, shedding li
 
 ### The implementation of a street vending ordinance in the Mission District, San Francisco
 
-<img align="left" width="15%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/flores.png">
+<img align="left" width="10%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/flores.png">
 The government framed the urgency of creating the street vending ordinance around the conspicuous vending of stolen goods and drugs happening outside the 24th and Mission subway station. However, the street vending ordinance missed its target, implementing regulatory measures for street vendors that were not involved in selling stolen goods or drugs. This study  examines the reaction of vendors, community organizations, and street level bureaucrats (e.g., district supervisors, public works officials, and police officers) to the implementation of the street vending ordinance. In particular, this project traces the dynamism of the implementation and explores the unintended socioeconomic consequences of its implementation at the city level.
 
 ### Retail food environment and incorporating informal food outlets in food policies in Mexico
 
-<img align="left" width="20%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/food.png">
-I study the **retail food environment in Mexico**, shedding light on how households purchase from a myriad of food and beverage outlets and the importance of incorporating informal outlets in food policy interventions (jointly with [Dalia Stern](https://www.globalfoodresearchprogram.org/team/dalia-stern-solodkin/) and other co-authors). View [_Food and beverage purchases at formal and informal outlets in Mexico_](https://pubmed.ncbi.nlm.nih.gov/36285524/).
+<img align="left" width="15%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/food.png">
+I study the **retail food environment in Mexico**, shedding light on how households purchase from a myriad of food and beverage outlets and the importance of incorporating informal outlets in food policy interventions. The results show that the largest proportion of food purchases are carried out in small neighborhood and specialty stores (i.e., _abarroterías_ and _tiendas de ramo_) and that there is no clear categorization of healthy/unhealthy outlets (jointly with [Dalia Stern](https://www.globalfoodresearchprogram.org/team/dalia-stern-solodkin/) and other co-authors). View [_Food and beverage purchases at formal and informal outlets in Mexico_](https://pubmed.ncbi.nlm.nih.gov/36285524/).
 
 
 ### Firm demography
 
-<img align="left" width="20%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/access.png">
+<img align="left" width="15%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/access.png">
 I examined the sensitivity of **access metrics**, the **co-location** of large chain stores with smaller independent hardware stores, and the **demography of firms** in the United States by using life tables to analyze the probability at which different firm sizes survived or died over time in different geographies (jointly with [Luc Anselin](https://spatial.uchicago.edu/directory/luc-anselin-phd)). View chapters in [_Streetlife: The Future of Urban Retail_](https://urbanism.uchicago.edu/content/streetlife).
 
 ### Mobility of informal workers in Mexico City
