@@ -7,10 +7,15 @@ header:
   og_image: "images/bunny.png"
 ---
 
+<img align="left" width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+
 ### The power of street vending associations in Mexico City
 Even more, the evolution of street vending associations in their relationship with how the state shapes and controls these associations beyond clientelist practices, and how it has varied across municipalities outside of the Historic Center has not yet been examined. In this context, this project examines the extent to which street vending associations regulate and manage public space.  This project is organized around two main comparisons: (1) a comparison of the politics of street vending outside  subway stations in Mexico City; and (2) an over-time comparison at the city level over the course of three periods of time that cover the rule of three different political parties: pre-1997 (PRI rule); 1997-2018 (Partido Revolucionario Democrático, PRD rule); 2018-today (Movimiento de Regeneración Nacional, MORENA rule).
 
-### The consequences of the street vending ordinance in the Mission District, San Francisco
+### The power of street vending associations in Mexico City
+Even more, the evolution of street vending associations in their relationship with how the state shapes and controls these associations beyond clientelist practices, and how it has varied across municipalities outside of the Historic Center has not yet been examined. In this context, this project examines the extent to which street vending associations regulate and manage public space.  This project is organized around two main comparisons: (1) a comparison of the politics of street vending outside  subway stations in Mexico City; and (2) an over-time comparison at the city level over the course of three periods of time that cover the rule of three different political parties: pre-1997 (PRI rule); 1997-2018 (Partido Revolucionario Democrático, PRD rule); 2018-today (Movimiento de Regeneración Nacional, MORENA rule).
+
+### The implementation of a street vending ordinance in the Mission District, San Francisco
 The government framed the urgency of creating the street vending ordinance around the conspicuous vending of stolen goods and drugs happening outside the 24th and Mission subway station. However, the street vending ordinance missed its target, implementing regulatory measures for street vendors that were not involved in selling stolen goods or drugs. This study  examines the reaction of vendors, community organizations, and street level bureaucrats (e.g., district supervisors, public works officials, and police officers) to the implementation of the street vending ordinance. In particular, this project traces the dynamism of the implementation and explores the unintended socioeconomic consequences of its implementation at the city level.
 
 ### Retail food environment and incorporating informal food outlets in food policies in Mexico
