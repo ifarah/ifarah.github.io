@@ -18,4 +18,4 @@ Broadly, my reseach interest is on the management of public space and how differ
 Hola! Actualmente soy estudiante doctoral en Planeación Urbana en la Universidad de California, en Berkeley.
 Mi investigación gira alrededor de temas de `desigualdad`, con particular énfasis en **informalidad laboral**, **gobernanza**, **salud pública**, y **análisis espacial**.
 
-Mi interés principal es sobre el manejo del espacio público y cómo diversas instituciones y actores regulan ese espacio en la Ciudad de México y San Francisco. En particular, me interesa cómo cambios en estructuras de governanza afectan la negociación del espacio entre trabajadores informales, servidores públicos y políticos locales, con un enfoque particular en personas comerciantes en vía pública. 
+Mi interés principal es sobre el manejo del espacio público y cómo diversas instituciones y actores regulan ese espacio en la Ciudad de México y San Francisco. En particular, me interesa cómo cambios en estructuras de gobernanza afectan la negociación del espacio entre trabajadores informales, servidores públicos y políticos locales, con un enfoque particular en personas comerciantes en vía pública. 
