@@ -30,7 +30,7 @@ I examined the sensitivity of **access metrics**, the **co-location** of large c
 
 ### Mobility of informal workers in Mexico City
 
-<img align="left" width="20%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/sv_mx_city.png">
+<img align="left" width="20%" src="https://github.com/ifarah/ifarah.github.io/blob/master/images/camion.png">
 While cities craft policies to regulate work in the formal labor market, where jobs are more secure, well-remunerated with health and other benefits, cities do not consider regulation of work within the informal labor market. Although street vendors are the most visible form of informal work, little is known about their daily mobility patterns and how that affects their relationship with vendor organizations, street level bureaucrats, and local elected officials. Using the location of informal street markets in Mexico City, I use Call Detail Record (CDR) data to capture people coming into the region of interest (street market) and identify them as vendors, identify their home location, and their mobility patterns across the city. This analysis will allow me to identify the percentage of workers that live within the same municipality in each street market, allowing me to further examine if local workers gain greater political leverage to remain in place through 1) stronger community networks as a more homogeneous group or, 2) by having a stronger clientelistic relationship by being part of the local politicians’ jurisdiction.
 
 ### Enumeration of street vendors through satellite images
