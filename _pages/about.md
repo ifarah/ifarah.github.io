@@ -17,7 +17,7 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
 
 ---------
 
-Hola! Actualmente soy estudiante doctoral en [Planeación Urbana en la Universidad de California, en Berkeley] (https://ced.berkeley.edu/academics/city-regional-planning).
+Hola! Actualmente soy estudiante doctoral en [Planeación Urbana en la Universidad de California, en Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).
 Mi investigación gira alrededor de temas de `desigualdad`, con particular énfasis en **informalidad laboral**, **gobernanza**, **salud pública**, y **análisis espacial**.
 
 Mi interés principal es sobre el manejo del espacio público y cómo diversas instituciones y actores regulan ese espacio en la Ciudad de México y San Francisco. En particular, me interesa cómo cambios en estructuras de gobernanza afectan la negociación del espacio entre trabajadores informales, servidores públicos y políticos locales, con un enfoque particular en personas comerciantes en vía pública. 
