@@ -28,4 +28,4 @@ Mi interés principal es sobre el manejo del espacio público y cómo diversas i
 
 Anteriormente, trabajé en el [Centro de Ciencia de Datos Espaciales en la Universidad de Chicago](https://spatial.uchicago.edu/), donde cursé mi maestría en Ciencias Sociales y previo a eso trabajé en el [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) (Consejo Nacional de Evaluación de la Política de Desarrollo Social) en la Ciudad de México.
   
-<sub>[Download CV (Español)](https://drive.google.com/file/d/1kRYGIoqYJsbCEwb-5gp4YDmDVcAy9XU3/view?usp=sharing)<sub>
+<sub>[Descargar CV (Español)](https://drive.google.com/file/d/1kRYGIoqYJsbCEwb-5gp4YDmDVcAy9XU3/view?usp=sharing)<sub>
