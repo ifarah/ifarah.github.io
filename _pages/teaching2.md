@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
   
 ### <ins>UC Berkeley<ins>
+* Graduate Student Instructor in **Planning Methods Gateway: Part I**, *Fall 2022*
 * Instructor in **Maps as Social Justice Interventions**, *Summer 2022*
 * Workshop instructor in the DLab **R Geospatial Series and US Census**, *2021-2022*
 * Graduate Student Instructor in **Introduction to Urban Data Analytics**, *Spring 2021*
