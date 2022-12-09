@@ -17,6 +17,8 @@ Broadly, my reseach interest is on the management of public space and how differ
 
 Previously, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), where I also did my Master's in Social Sciences and before that I worked at the National Council for the Evaluation of Social Development ([CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)) in Mexico City.
 
+<sub>[Download CV (English)](https://drive.google.com/file/d/11d0W231bilm0dpV0GwrRClhBQHMECWih/view?usp=sharing)<sub>
+  
 ---------
 
 ¡Hola! Actualmente soy estudiante doctoral en [Planeación Urbana en la Universidad de California, en Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).
@@ -25,3 +27,5 @@ Mi investigación gira alrededor de temas de `desigualdad`, con particular énfa
 Mi interés principal es sobre el manejo del espacio público y cómo diversas instituciones y actores regulan ese espacio en la Ciudad de México y San Francisco. En particular, me interesa cómo cambios en estructuras de gobernanza afectan la negociación del espacio entre trabajadores informales, servidores públicos y políticos locales, con un enfoque particular en personas comerciantes en vía pública. 
 
 Anteriormente, trabajé en el [Centro de Ciencia de Datos Espaciales en la Universidad de Chicago](https://spatial.uchicago.edu/), donde cursé mi maestría en Ciencias Sociales y previo a eso trabajé en el [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) (Consejo Nacional de Evaluación de la Política de Desarrollo Social) en la Ciudad de México.
+  
+<sub>[Download CV (Español)](https://drive.google.com/file/d/1kRYGIoqYJsbCEwb-5gp4YDmDVcAy9XU3/view?usp=sharing)<sub>
