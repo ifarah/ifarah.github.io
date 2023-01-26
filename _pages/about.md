@@ -17,7 +17,7 @@ Broadly, my reseach interest is on the management of public space and how differ
 
 Previously, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), where I also did my Master's in Social Sciences and before that I worked at the National Council for the Evaluation of Social Development ([CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)) in Mexico City.
 
-<sub>[Download CV (English)](https://drive.google.com/file/d/11d0W231bilm0dpV0GwrRClhBQHMECWih/view?usp=sharing)<sub>
+<sub>[Download CV (English)](https://drive.google.com/file/d/1q2YkhkNjI-POA06DOYQ0p8gqU5AQ0Wsd/view?usp=share_link)<sub>
   
 ---------
 
