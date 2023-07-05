@@ -11,7 +11,7 @@ redirect_from:
 <img align="center" width="130%" height="50%" src="images/mural.png">
 
 Welcome! I am a PhD Candidate in [City & Regional Planning at UC Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).    
-My research revolves around themes of `inequality`, focusing on topics of **labor informality**, **governance**, **public health**, and **spatial analytics**. 
+My research revolves around themes of `inequality`, focusing on topics of **labor informality**, **urban governance**, **public health**, and **spatial analytics**. 
 
 Broadly, my reseach interest is on the management of public space and how different actors regulate that space. In particular, I am interested in how shifts in **governance structures** and **intermediation** in Mexico City and San Francisco impact how street vendors, street level bureaucrats, and local politicians negotiate over the use of public space.
 
