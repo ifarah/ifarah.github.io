@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Working Drafts**
+- **Farah I.**, Ramírez, Y., López‑Olmedo, N., Pérez‑Ferrer, C., Langellier, B.A., Colchero, M.A, Barrientos‑Gutierrez, T, and Stern,
+D. (2023). Quality of food and beverage purchases at formal and informal food outlets in Mexico. Food Security. In Review.
+
+- **Farah I.** ”The Informal Economy and Urban Design.” In The Routledge Handbook of Urban Design Practice. Eds. Larice, M.,
+O’Neill Robinson, M., and Penniman, A. Routledge, In Review.
+
+- **Farah I.** ”La coexistencia de la planeación urbana con el comercio popular en la Ciudad de México.” In La Nueva Gobernanza
+Urbana. Eds. Keoseyan, S. Bonilla Rius, In Review.
 
 **Peer-Reviewed Publications**
 
@@ -13,12 +22,6 @@ author_profile: true
 T. (2022) [Food and beverage purchases at formal and informal outlets in Mexico](https://doi.org/10.1017/S1368980022002324). *Public Health Nutrition*.
 
 **Book Chapters**
-
-- **Farah I.** ”The Informal Economy and Urban Design.” In The Routledge Handbook of Urban Design Practice. Eds. Larice, M.,
-O’Neill Robinson, M., and Penniman, A. Routledge, In Review.
-
-- **Farah I.** ”La coexistencia de la planeación urbana con el comercio popular en la Ciudad de México.” In La Nueva Gobernanza
-Urbana. Eds. Keoseyan, S. Bonilla Rius, In Review.
 
 - Anselin, L, **Farah I.** (2023) [”The life and death of retail: insights from firm demography.”](https://www.researchgate.net/publication/370427733_The_Life_and_Death_of_Retail_Insights_from_Firm_Demography) In [Streetlife: The Future of Urban
 Retail.](https://utorontopress.com/9781487524814/streetlife/) Eds. Talen, E and Kickert, C. University of Toronto Press.
