@@ -20,7 +20,7 @@ O’Neill Robinson, M., and Penniman, A. Routledge, In Review.
 - **Farah I.** ”La coexistencia de la planeación urbana con el comercio popular en la Ciudad de México.” In La Nueva Gobernanza
 Urbana. Eds. Keoseyan, S. Bonilla Rius, In Review.
 
-Anselin, L, **Farah I.** (2023) [”The life and death of retail: insights from firm demography.”](https://www.researchgate.net/publication/370427733_The_Life_and_Death_of_Retail_Insights_from_Firm_Demography) In [Streetlife: The Future of Urban
+- Anselin, L, **Farah I.** (2023) [”The life and death of retail: insights from firm demography.”](https://www.researchgate.net/publication/370427733_The_Life_and_Death_of_Retail_Insights_from_Firm_Demography) In [Streetlife: The Future of Urban
 Retail.](https://utorontopress.com/9781487524814/streetlife/) Eds. Talen, E and Kickert, C. University of Toronto Press.
 
 - Credit K., **Farah I.**, y Anselin, L. (2023) [”The Ups and Downs of Retail, 2000 – 2015.”](https://www.researchgate.net/publication/368922432_The_Ups_and_Downs_of_Retail_2000-2015) In [Streetlife: The Future of Urban Retail.] (https://utorontopress.com/9781487524814/streetlife/)
