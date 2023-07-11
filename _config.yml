@@ -86,9 +86,9 @@ author:
   location         : "San Francisco, USA"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=a_nZ89EAAAAJ&hl=en"
   email            : "irenef@berkeley.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Irene-Farah-3?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
