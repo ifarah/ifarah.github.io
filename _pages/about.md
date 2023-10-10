@@ -32,12 +32,9 @@ Mi investigación gira alrededor de temas de **política urbana**, **informalida
 
 Mi investigación doctoral estudia cómo las regulaciones y la intermediación entre gobiernos locales y comerciantes en vía pública impacta la asignación y lucha por el uso de suelo urbano.
 
-
-En español, la traducción de tu texto sería:
-
 En colaboración con el Instituto Nacional de Salud Pública de México, también he estudiado la variación geográfica de establecimientos de comida y el rol que los los establecimientos informales juegan en los entornos alimentarios.
 
-Además, he empleado una amplia gama de enfoques metodológicos además de los métodos etnográficos: examinando métricas de accesibilidad espacial, aplicando demografía matemática para examinar la dinámica de las empresas y analizando  olas de calor a través de remote sensing. En la actualidad estoy trabajando en la implementación de métodos innovadores que he utilizado anteriormente para estudiar la informalidad a través de datos de celulares, análisis de punto e imágenes satelitales.
+Además, he empleado una amplia gama de enfoques metodológicos además de los métodos etnográficos: examinando métricas de accesibilidad espacial, aplicando demografía matemática para examinar la dinámica de las empresas y analizando olas de calor a través de remote sensing. En la actualidad estoy trabajando en la implementación de métodos innovadores que he utilizado anteriormente para estudiar la informalidad a través de datos de celulares, análisis de punto e imágenes satelitales.
 
 Anteriormente, trabajé en el [Centro de Ciencia de Datos Espaciales en la Universidad de Chicago](https://spatial.uchicago.edu/), donde cursé mi maestría en Ciencias Sociales y previo a eso trabajé en el [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) (Consejo Nacional de Evaluación de la Política de Desarrollo Social) en la Ciudad de México. También obtuve mi licenciatura en Ciencia Política en el [ITAM](https://www.itam.mx/).
   
