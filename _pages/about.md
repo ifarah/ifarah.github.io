@@ -22,7 +22,7 @@ I have also employed a wide range of methodological approaches besides ethnograp
 
 Previously, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), where I also did my Master's in Social Sciences and before that I worked at the National Council for the Evaluation of Social Development ([CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)) in Mexico City. I also hold a BA in Political Science from [ITAM](https://www.itam.mx/). 
 
-<sub>[Download CV (English)]([https://drive.google.com/file/d/1q2YkhkNjI-POA06DOYQ0p8gqU5AQ0Wsd/view?usp=share_link](https://drive.google.com/file/d/1_dNe95WDAD6c6JecSAEKRefEErpwfFmQ/view?usp=sharing))<sub>
+<sub>[Download CV (English)](https://drive.google.com/file/d/1_dNe95WDAD6c6JecSAEKRefEErpwfFmQ/view?usp=drive_link)<sub>
   
 ---------
 
