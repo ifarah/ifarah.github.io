@@ -38,4 +38,4 @@ Además, he empleado una **amplia gama de enfoques metodológicos** además de l
 
 Anteriormente, trabajé en el [Centro de Ciencia de Datos Espaciales en la Universidad de Chicago](https://spatial.uchicago.edu/), donde cursé mi maestría en Ciencias Sociales y previo a eso trabajé en el [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) (Consejo Nacional de Evaluación de la Política de Desarrollo Social) en la Ciudad de México. También obtuve mi licenciatura en Ciencia Política en el [ITAM](https://www.itam.mx/).
   
-<sub>[Descargar CV (Español)](https://drive.google.com/file/d/1kRYGIoqYJsbCEwb-5gp4YDmDVcAy9XU3/view?usp=sharing)<sub>
+<sub>[Descargar CV (Español)](https://drive.google.com/file/d/1X307x_gRcQ-ig7HjKb71gxgt3IGV4zXl/view?usp=sharing)<sub>
