@@ -18,7 +18,7 @@ My dissertation reseach focuses on how regulations and the **intermediation betw
 
 Jointly with the National Institute of Health in Mexico, I have also studied how food outlets' healthfulness varies geographically and **the role of informal outlets in food environments**.
 
-I have also employed a **wide range of methodological approaches** besides ethnographic methods: examining spatial accessibility metrics, applying mathematical demography to examine firm dynamics, and analyzing heat waves through remote sensing. In current projects, I am working on deploying innovative methods I have learned in previous projects to study informality, such as mobile data, point pattern analysis, and satellite imagery. 
+I have also employed a **wide range of methodological approaches** besides ethnographic methods: examining spatial accessibility metrics, applying mathematical demography to examine firm dynamics, and analyzing heat waves through remote sensing. In current projects, I am working on deploying innovative methods I have learned in previous projects to study street vending, such as mobile data, point pattern analysis, and satellite imagery. 
 
 Previously, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), where I also did my Master's in Social Sciences and before that I worked at the National Council for the Evaluation of Social Development ([CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)) in Mexico City. I also hold a B.A. in Political Science from [ITAM](https://www.itam.mx/). 
 
@@ -34,7 +34,7 @@ Mi investigación doctoral estudia cómo las regulaciones y la **intermediación
 
 En colaboración con el Instituto Nacional de Salud Pública de México, también he estudiado la variación geográfica de establecimientos de comida saludable y **el rol que los los establecimientos informales juegan en los entornos alimentarios**.
 
-Además, he empleado una **amplia gama de enfoques metodológicos** además de los métodos etnográficos: examinando métricas de accesibilidad espacial, aplicando demografía matemática para examinar la dinámica de las empresas y analizando olas de calor a través de remote sensing. En la actualidad estoy trabajando en la implementación de métodos innovadores que he utilizado anteriormente para estudiar la informalidad a través de datos de celulares, análisis de punto e imágenes satelitales.
+Además, he empleado una **amplia gama de enfoques metodológicos** además de los métodos etnográficos: examinando métricas de accesibilidad espacial, aplicando demografía matemática para examinar la dinámica de las empresas y analizando olas de calor a través de remote sensing. En la actualidad estoy trabajando en la implementación de métodos innovadores que he utilizado anteriormente para estudiar el comercio popular a través de datos de celulares, análisis de punto e imágenes satelitales.
 
 Anteriormente, trabajé en el [Centro de Ciencia de Datos Espaciales en la Universidad de Chicago](https://spatial.uchicago.edu/), donde cursé mi maestría en Ciencias Sociales y previo a eso trabajé en el [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) (Consejo Nacional de Evaluación de la Política de Desarrollo Social) en la Ciudad de México. También obtuve mi licenciatura en Ciencia Política en el [ITAM](https://www.itam.mx/).
   
