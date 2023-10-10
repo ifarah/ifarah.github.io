@@ -20,7 +20,7 @@ Jointly with the National Institute of Health in Mexico, I have also studied how
 
 I have also employed a **wide range of methodological approaches** besides ethnographic methods: examining spatial accessibility metrics, applying mathematical demography to examine firm dynamics, and analyzing heat waves through remote sensing. In current projects, I am working on deploying innovative methods I have learned in previous projects to study informality, such as mobile data, point pattern analysis, and satellite imagery. 
 
-Previously, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), where I also did my Master's in Social Sciences and before that I worked at the National Council for the Evaluation of Social Development ([CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)) in Mexico City. I also hold a BA in Political Science from [ITAM](https://www.itam.mx/). 
+Previously, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), where I also did my Master's in Social Sciences and before that I worked at the National Council for the Evaluation of Social Development ([CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)) in Mexico City. I also hold a B.A. in Political Science from [ITAM](https://www.itam.mx/). 
 
 <sub>[Download CV (English)](https://drive.google.com/file/d/1_dNe95WDAD6c6JecSAEKRefEErpwfFmQ/view?usp=drive_link)<sub>
   
