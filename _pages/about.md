@@ -10,7 +10,7 @@ redirect_from:
 
 <img align="center" width="130%" height="50%" src="images/mural.png">
 
-Welcome! I am a PhD Candidate in [City & Regional Planning at UC Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).
+Welcome! I am a Ph.D. Candidate in [City & Regional Planning at UC Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).
 
 My research focuses on **urban politics**, **informality**, and **methods**.
 
@@ -26,7 +26,7 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
   
 ---------
 
-¡Hola! Actualmente soy estudiante doctoral en [Planeación Urbana en la Universidad de California, en Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).
+¡Hola! Actualmente soy candidata a doctor en [Planeación Urbana en la Universidad de California, en Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).
 
 Mi investigación gira alrededor de temas de **política urbana**, **informalidad** y **métodos**.
 
