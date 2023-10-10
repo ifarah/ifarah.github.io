@@ -16,7 +16,7 @@ My research focuses on **urban politics**, **informality**, and **methods**.
 
 My dissertation reseach focuses on how regulations and the **intermediation between local governments and street vendors** impact how urban land uses are assigned and contested in Mexico City and San Francisco. 
 
-Jointly with the National Institute of Health of Mexico, I have also studied how food outlets' healthfulness varies geographically and **the role of informal outlets in food environments**.
+Jointly with the National Institute of Health in Mexico, I have also studied how food outlets' healthfulness varies geographically and **the role of informal outlets in food environments**.
 
 I have also employed a **wide range of methodological approaches** besides ethnographic methods: examining spatial accessibility metrics, applying mathematical demography to examine firm dynamics, and analyzing heat waves through remote sensing. In current projects, I am working on deploying innovative methods I have learned in previous projects to study informality, such as mobile data, point pattern analysis, and satellite imagery. 
 
