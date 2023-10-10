@@ -8,7 +8,7 @@ author_profile: true
 
 **Peer-Reviewed Publications**
 
-- Ju, Y., Dronova, I., Rodríguez, D., Bakhtsiyarava, M., and **Farah, I.** (2023). [Recent greening may curb urban warming in Latin American cities of better economic conditions](https://doi.org/10.1016/j.landurbplan.2023.104896). *Landscape and Urban Planning*.  
+- Ju, Y., Dronova, I., Rodríguez, D., Bakhtsiyarava, M., and **Farah, I.** (2023). [Recent greening may curb urban warming in Latin American cities of better economic conditions](https://doi.org/10.1016/j.landurbplan.2023.104896). *Landscape and Urban Planning*.   
   
 - Domínguez‑Barreto, A.P., **Farah I.**, López‑Olmedo, N., Pérez‑Ferrer, C., Ramírez, Y., Barrientos‑Gutierrez, T, and Stern, D. (2023) [Trends in food and beverage purchases in informal and formal outlets in Mexico: ENIGH 1994‑2020](https://doi.org/10.3389/fpubh.2023.1151916). *Frontiers*.
 
