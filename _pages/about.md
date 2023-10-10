@@ -30,7 +30,7 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
 
 Mi investigación gira alrededor de temas de **política urbana**, **informalidad** y **métodos**.
 
-Mi investigación doctoral estudia cómo las regulaciones y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el uso de suelo urbano.
+Mi investigación doctoral estudia cómo las regulaciones y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el uso de suelo urbano en la Ciudad de México y San Francisco.
 
 En colaboración con el Instituto Nacional de Salud Pública de México, también he estudiado la variación geográfica de establecimientos de comida saludable y **el rol que los los establecimientos informales juegan en los entornos alimentarios**.
 
