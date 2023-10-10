@@ -14,7 +14,7 @@ Welcome! I am a Ph.D. Candidate in [City & Regional Planning at UC Berkeley](htt
 
 My research focuses on **urban politics**, **informality**, and **methods**.
 
-My dissertation reseach focuses on how regulations and the **intermediation between local governments and street vendors** impact how urban land is assigned and contested in Mexico City and San Francisco.
+My dissertation reseach focuses on how **regulations** and the **intermediation between local governments and street vendors** impact how urban land is assigned and contested in Mexico City and San Francisco.
 
 Jointly with the National Institute of Health in Mexico, I have also studied how food outlets' healthfulness varies geographically and **the role of informal outlets in food environments**.
 
@@ -30,7 +30,7 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
 
 Mi investigación gira alrededor de temas de **política urbana**, **informalidad** y **métodos**.
 
-Mi investigación doctoral estudia cómo las regulaciones y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el uso de suelo urbano en la Ciudad de México y San Francisco.
+Mi investigación doctoral estudia cómo las **regulaciones** y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el uso de suelo urbano en la Ciudad de México y San Francisco.
 
 En colaboración con el Instituto Nacional de Salud Pública de México, también he estudiado la variación geográfica de establecimientos de comida saludable y **el rol que los los establecimientos informales juegan en los entornos alimentarios**.
 
