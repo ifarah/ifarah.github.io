@@ -57,6 +57,7 @@ Urbana. Eds. Keoseyan, S. Bonilla Rius, In Review.
   
 - **Farah, I.** Variation of Brokers’ Bargaining Power in Space: The Governance of Mexico City’s Tianguis.
 
+- Bakić Hayden, T., **Farah, I.** "Urban governance and the regulation of street food vending in Latin America." *Urban Food Systems in Latin America: Territories, Mobilities, Actors.* Eds. Bakić Hayden, T., Pérez Martín, J. Routledge.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
