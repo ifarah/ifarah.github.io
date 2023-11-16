@@ -28,7 +28,7 @@ While cities craft policies to regulate work in the formal labor market, where j
 
 ### Predatory behavior of food retail in Mexico City
 
-<img align="left" width="28%"  style="float:left; padding-right:10px" src="/images/abarrotes.png">
+<img align="left" width="22%"  style="float:left; padding-right:10px" src="/images/abarrotes.png">
 
 Previous research states that over the last two decades, a greater density of supermarkets and convenience stores has increased in the global south, putting at risk the survival of small businesses in neighborhoods. This project will empirically analyze if corporate businesses have been displacing smaller businesses in the case of Mexico City. Basing our work on the demography of businesses, we will employ spatial point pattern analysis to examine if the “birth” of corporate businesses “kill” small businesses from 2010 to 2015, and from 2015 and 2020.  We will rely on the shared component model based on the log Gaussian Cox process model for initial analysis (jointly with [Claire Kelling](https://clairekelling.com/index.html)).
 
