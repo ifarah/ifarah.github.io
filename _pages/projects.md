@@ -7,8 +7,6 @@ header:
   og_image: "images/bunny.png"
 ---
 
-
-
 ### Power of street vending associations and state formation in Mexico City
 
 <img align="left" width="30%"  style="float:left; padding-right:10px" src="/images/mamey2.png">
@@ -26,7 +24,13 @@ The government framed the urgency of creating the street vending ordinance aroun
 
 <img align="left" width="28%"  style="float:left; padding-right:10px" src="/images/camion.png">
 
-While cities craft policies to regulate work in the formal labor market, where jobs are more secure, well-remunerated with health and other benefits, cities do not consider regulation of work within the informal labor market. Although street vendors are the most visible form of informal work, little is known about their daily mobility patterns and how that affects their relationship with vendor organizations, street level bureaucrats, and local elected officials. Using the location of informal street markets in Mexico City, I use Call Detail Record (CDR) data to capture people coming into the region of interest (street market) and identify them as vendors, identify their home location, and their mobility patterns across the city. This analysis will allow me to identify the percentage of workers that live within the same municipality in each street market, allowing me to further examine if local workers gain greater political leverage to remain in place through 1) stronger community networks as a more homogeneous group or, 2) by having a stronger clientelistic relationship by being part of the local politicians’ jurisdiction.
+While cities craft policies to regulate work in the formal labor market, where jobs are more secure, well-remunerated with health and other benefits, cities do not consider regulation of work within the informal labor market. Although street vendors are the most visible form of informal work, little is known about their daily mobility patterns and how that affects their relationship with vendor organizations, street level bureaucrats, and local elected officials. Using the location of informal street markets in Mexico City, I use Location Based Services (LBS) data to capture people coming into the region of interest (street market) and identify them as vendors, identify their home location, and their mobility patterns across the city. This analysis will allow me to identify the percentage of workers that live within the same municipality in each street market, allowing me to further examine if local workers gain greater political leverage to remain in place through 1) stronger community networks as a more homogeneous group or, 2) by having a stronger clientelistic relationship by being part of the local politicians’ jurisdiction.
+
+### Predatory behavior of food retail in Mexico City
+
+<img align="left" width="28%"  style="float:left; padding-right:10px" src="/images/abarrotes.png">
+
+Previous research states that over the last two decades, a greater density of supermarkets and convenience stores has increased in the global south, putting at risk the survival of small businesses in neighborhoods. This project will empirically analyze if corporate businesses have been displacing smaller businesses in the case of Mexico City. Basing our work on the demography of businesses, we will employ spatial point pattern analysis to examine if the “birth” of corporate businesses “kill” small businesses from 2010 to 2015, and from 2015 and 2020.  We will rely on the shared component model based on the log Gaussian Cox process model for initial analysis (jointly with [Claire Kelling](https://clairekelling.com/index.html)).
 
 ### Retail food environment and incorporating informal food outlets in food policies in Mexico
 
@@ -47,7 +51,7 @@ The existence of street vendors in public space is as contentious as collecting 
 
 ### Accessibility
 <img align="left" width="18%"  style="float:left; padding-right:10px" src="/images/access2.png">
-I examine the sensitivity of **access metrics** by estimating the walking distance metrics at a tract level to assess their differences across time for 6 cities: Atlanta, Boston, Chicago, Miami, Phoenix, and Seattle. I measure and compare 12 spatial potential access models metrics with varying parameters that determine them: the distance decay function, maximum time threshold to which people walk to an amenity, number of amenities included within the threshold, and the weights that each amenity should have. Assessment of the parameters defining gravity-model and potential accessibility measures is crucial, given that there is no consensus on which thresholds to set. I then estimate the sensitivity of these models by comparing it to the 2011 Walk Score® which has devised an official nation-wide scoring method for walkability (jointly with [Luc Anselin](https://spatial.uchicago.edu/directory/luc-anselin-phd)).
+I examine the sensitivity of **access metrics** by estimating the walking distance metrics at a tract level to assess their differences across time for 6 cities: Atlanta, Boston, Chicago, Miami, Phoenix, and Seattle. I measure and compare 12 spatial potential access models metrics with varying parameters that determine them: the distance decay function, maximum time threshold to which people walk to an amenity, number of amenities included within the threshold, and the weights that each amenity should have. Assessment of the parameters defining gravity-model and potential accessibility measures is crucial, given that there is no consensus on which thresholds to set. I then estimate the sensitivity of these models by comparing it to the 2011 Walk Score® which has devised an official nation-wide scoring method for walkability (jointly with [Luc Anselin](https://spatial.uchicago.edu/directory/luc-anselin-phd), [Kevin Credit](https://www.maynoothuniversity.ie/faculty-social-sciences/our-people/kevin-credit), and [Emily Talen](https://socialsciences.uchicago.edu/directory/emily-talen)).
 
 ### Development of a teaching curriculum on critical spatial data science
 
