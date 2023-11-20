@@ -36,7 +36,7 @@ Science Working Paper). University of Chicago.
 
 **Under Revision and In Preparation**  
 
-- **Farah, I.**. Governing the Governable: The Implementation of San Francisco’s Street Vending Policy. International Journal of Urban and Regional Research.
+- **Farah, I.**, Governing the Governable: The Implementation of San Francisco’s Street Vending Policy. International Journal of Urban and Regional Research.
 
 - **Farah I.**, Domínguez‑Barreto, A.P., López‑Olmedo, N., Pérez‑Ferrer, C., Ramírez, Y., Langellier, B.A., Colchero, M.A, Rivera,
 J.A., Barrientos‑Gutierrez, T, and Stern, D. Changes in the healthfulness of food and beverage purchases from 2006 to
