@@ -20,7 +20,7 @@ I have also employed a **wide range of methodological approaches** besides ethno
 
 Previously, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), where I also did my Master's in Social Sciences and before that I worked at the National Council for the Evaluation of Social Development ([CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)) in Mexico City. I also hold a B.A. in Political Science from [ITAM](https://www.itam.mx/). 
 
-You can find my <sub>[CV (English)](https://ifarah.github.io/cv/main_cv.pdf)<sub> here.
+<sub>You can find my [CV in English](https://ifarah.github.io/cv/main_cv.pdf) here.<sub>
   
 ---------
 
@@ -34,4 +34,4 @@ Además, he empleado una **amplia gama de enfoques metodológicos** además de l
 
 Anteriormente, trabajé en el [Centro de Ciencia de Datos Espaciales en la Universidad de Chicago](https://spatial.uchicago.edu/), donde cursé mi maestría en Ciencias Sociales y previo a eso trabajé en el [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) (Consejo Nacional de Evaluación de la Política de Desarrollo Social) en la Ciudad de México. También obtuve mi licenciatura en Ciencia Política en el [ITAM](https://www.itam.mx/).
   
-Pueden encontrar mi <sub>[CV (Español)](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing)<sub> aquí.
+<sub>Pueden encontrar mi [CV en (español)](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing) aquí.<sub>
