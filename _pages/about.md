@@ -10,11 +10,9 @@ redirect_from:
 
 <img align="center" width="130%" height="50%" src="images/mural.png">
 
-Welcome! I am a Ph.D. Candidate in [City & Regional Planning at UC Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).
+Welcome! I am a Postdoctoral Scholar in [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). My research focuses on **urban politics**, **informality**, **food systems**, and **methods**.
 
-My research focuses on **urban politics**, **informality**, **food systems**, and **methods**.
-
-My dissertation research focuses on how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
+My dissertation research focused on how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
 
 Jointly with the National Institute of Health in Mexico, I have also studied how food outlets' healthfulness varies geographically and **the role of informal outlets in food environments**.
 
@@ -26,11 +24,9 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
   
 ---------
 
-¡Hola! Actualmente soy candidata a doctor en [Planeación Urbana en la Universidad de California, en Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).
+¡Hola! Actualmente soy una postdoc en  a doctor en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos**.
 
-Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos**.
-
-Mi investigación doctoral estudia cómo las **regulaciones** y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el espacio en la Ciudad de México y San Francisco.
+Mi investigación doctoral se enfocó cómo las **regulaciones** y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el espacio en la Ciudad de México y San Francisco.
 
 En colaboración con el Instituto Nacional de Salud Pública de México, también he estudiado la variación geográfica de establecimientos de comida saludable y **el rol que los los establecimientos informales juegan en los entornos alimentarios**.
 
