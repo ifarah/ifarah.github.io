@@ -77,7 +77,13 @@ analytics:
   google:
     tracking_id          :
 
-
+navbar-links:
+  Moi: "aboutme"
+  Projects:
+    - Hell Game: "http://deanattali.com/beautiful-jekyll/"
+    - Success City: "https://ifarah.github.io/cv/main_cv.pdf"
+  Resume: "https://ifarah.github.io/cv/main_cv.pdf"
+  
 # Site Author
 author:
   name             : "Irene Farah"
