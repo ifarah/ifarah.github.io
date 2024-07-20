@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome! I am a Postdoctoral Scholar in [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). My research focuses on **urban politics**, **informality**, **food systems**, and **spatial methods**.
 
-<sub>You can find my [CV in English](https://ifarah.github.io/cv/main_cv.pdf) here.<sub>
+<sub>You can find my [CV here](https://ifarah.github.io/cv/main_cv.pdf).<sub>
 
 My dissertation research focused on how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
 
@@ -28,7 +28,7 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
 
 ¡Hola! Actualmente soy una postdoc en  a doctor en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos espaciales**.
 
-<sub>Pueden encontrar mi [CV en (español)](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing) aquí.<sub>
+<sub>Pueden encontrar mi [CV en español aquí](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing).<sub>
 
 Mi investigación doctoral se enfocó cómo las **regulaciones** y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el espacio en la Ciudad de México y San Francisco.
 
