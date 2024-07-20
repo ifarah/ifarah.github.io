@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Irene Farah"
-description              : &description "hello
+description              : &description "hello"
 url                      : https://ifarah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://ifarah.github.io"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=a_nZ89EAAAAJ&hl=en"
   email            : "irenef@illinois.edu"
   researchgate     : "https://www.researchgate.net/profile/Irene-Farah-3?ev=hdr_xprf"
-  uri              : "https://ifarah.github.io/cv/main_cv.pdf"
+  #uri              : "https://ifarah.github.io/cv/main_cv.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
