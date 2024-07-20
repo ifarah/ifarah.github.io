@@ -10,7 +10,7 @@ redirect_from:
 
 <img align="center" width="130%" height="50%" src="images/mural.png">
 
-Welcome! I am a Postdoctoral Scholar in [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). My research focuses on **urban politics**, **informality**, **food systems**, and **methods**.
+Welcome! I am a Postdoctoral Scholar in [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). My research focuses on **urban politics**, **informality**, **food systems**, and **spatial methods**.
 
 My dissertation research focused on how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
 
@@ -20,11 +20,11 @@ I have also employed a **wide range of methodological approaches** besides ethno
 
 Previously, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), where I also did my Master's in Social Sciences and before that I worked at the National Council for the Evaluation of Social Development ([CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)) in Mexico City. I also hold a B.A. in Political Science from [ITAM](https://www.itam.mx/). 
 
-<sub>[CV (English)](https://ifarah.github.io/cv/main_cv.pdf)<sub>
+You can find my <sub>[CV (English)](https://ifarah.github.io/cv/main_cv.pdf)<sub> here.
   
 ---------
 
-¡Hola! Actualmente soy una postdoc en  a doctor en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos**.
+¡Hola! Actualmente soy una postdoc en  a doctor en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos espaciales**.
 
 Mi investigación doctoral se enfocó cómo las **regulaciones** y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el espacio en la Ciudad de México y San Francisco.
 
@@ -34,4 +34,4 @@ Además, he empleado una **amplia gama de enfoques metodológicos** además de l
 
 Anteriormente, trabajé en el [Centro de Ciencia de Datos Espaciales en la Universidad de Chicago](https://spatial.uchicago.edu/), donde cursé mi maestría en Ciencias Sociales y previo a eso trabajé en el [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) (Consejo Nacional de Evaluación de la Política de Desarrollo Social) en la Ciudad de México. También obtuve mi licenciatura en Ciencia Política en el [ITAM](https://www.itam.mx/).
   
-<sub>[CV (Español)](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing)<sub>
+Pueden encontrar mi <sub>[CV (Español)](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing)<sub> aquí.
