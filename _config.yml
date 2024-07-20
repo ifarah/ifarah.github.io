@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Irene Farah"
-description              : &description "personal description"
+description              : &description "hello
 url                      : https://ifarah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://ifarah.github.io"
