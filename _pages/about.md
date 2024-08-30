@@ -10,7 +10,7 @@ redirect_from:
 
 <img align="center" width="130%" height="50%" src="images/mural.png">
 
-Welcome! I am a Postdoctoral Scholar in [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). My research focuses on **urban politics**, **informality**, **food systems**, and **spatial methods**.
+Welcome! I am a Postdoctoral Scholar in [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). My research focuses on **urban politics**, **informality**, **food systems**, and **spatial methods**.
 
 <sub>You can find my [CV here](https://ifarah.github.io/cv/main_cv.pdf).<sub>
 
@@ -26,7 +26,7 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
   
 ---------
 
-¡Hola! Actualmente soy una postdoc en  a doctor en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos espaciales**.
+¡Hola! Actualmente soy una postdoc en  a doctor en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos espaciales**.
 
 <sub>Pueden encontrar mi [CV en español aquí](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing).<sub>
 
