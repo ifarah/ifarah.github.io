@@ -7,9 +7,10 @@ header:
   og_image: "/images/bunny.png"
 ---
 
+<div>
 <img align="center" width="100%" height="40%" src="/images/police.png">
-
-<p align="right"><sup><sub>Foto credit: <a href="https://www.instagram.com/farahhector">Héctor Farah</a></sub></sup></p>
+<p align="right" style="margin-top: -5px;"><sup><sub>Foto credit: <a href="https://www.instagram.com/farahhector">Héctor Farah</a></sub></sup></p>
+</div>
 
 
 **Peer-Reviewed Publications**
