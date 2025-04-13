@@ -3,8 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-header:
-  og_image: "/images/bunny.png"
+redirect_from:
+  - /resume
 ---
 My research is divided into three interconnected categories: **Governance and informality**, **food retail**, and **methods**. These areas inform and build upon one another in my work.
 
