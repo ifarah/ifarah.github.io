@@ -10,11 +10,11 @@ redirect_from:
 
 <img align="center" width="130%" height="50%" src="images/mural.png">
 
-Welcome! I am a Postdoctoral Scholar in [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). My research focuses on **urban politics**, **informality**, **food systems**, and **spatial methods**.
+Welcome! I am a Distinguished Postdoctoral Research Associate at the University of Illinois Urbana-Champaign (UIUC) Department of [Urban and Regional Planning](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). My research focuses on **urban politics**, **informality**, **food systems**, and **spatial methods**.
 
 <sub>You can find my [CV here](https://ifarah.github.io/cv/main_cv.pdf).<sub>
 
-My dissertation research focused on how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
+My most recent research studies on how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
 
 Jointly with the National Institute of Health in Mexico, I have also studied how food outlets' healthfulness varies geographically and **the role of informal outlets in food environments**.
 
@@ -26,11 +26,11 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
   
 ---------
 
-¡Hola! Actualmente soy una postdoc en  a doctor en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos espaciales**.
+¡Hola! Actualmente soy una postdoc en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos espaciales**.
 
 <sub>Pueden encontrar mi [CV en español aquí](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing).<sub>
 
-Mi investigación doctoral se enfocó cómo las **regulaciones** y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el espacio en la Ciudad de México y San Francisco.
+Mi investigación más reciente se enfoca en cómo las **regulaciones** y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el espacio en la Ciudad de México y San Francisco.
 
 En colaboración con el Instituto Nacional de Salud Pública de México, también he estudiado la variación geográfica de establecimientos de comida saludable y **el rol que los los establecimientos informales juegan en los entornos alimentarios**.
 
