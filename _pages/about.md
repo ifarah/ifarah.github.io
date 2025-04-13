@@ -14,7 +14,7 @@ Welcome! I am a Distinguished Postdoctoral Research Associate at the University 
 
 <sub>You can find my [CV here](https://ifarah.github.io/cv/main_cv.pdf).<sub>
 
-My most recent research studies on how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
+My most recent research studies how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
 
 Jointly with the National Institute of Health in Mexico, I have also studied how food outlets' healthfulness varies geographically and **the role of informal outlets in food environments**.
 
