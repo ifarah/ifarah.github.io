@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 <img align="center" width="90%" height="30%" src="/images/police.png">
+
 <p align="right">Foto credit: [Héctor Farah](https://www.instagram.com/farahhector)</p>
 
+<sup><sub>Foto credit: [Héctor Farah](https://www.instagram.com/farahhector)</sub></sup>
+
+Foto credit: [Héctor Farah](https://www.instagram.com/farahhector)
 
 **Peer-Reviewed Publications**
 
