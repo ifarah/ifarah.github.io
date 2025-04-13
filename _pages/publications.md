@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  og_image: "/images/bunny.png"
 ---
 
 <img align="center" width="100%" height="40%" src="/images/police.png">
