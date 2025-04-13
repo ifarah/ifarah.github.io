@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  og_image: "/images/bunny.png"
 ---
 
 <img align="center" width="130%" height="50%" src="images/mural.png">
