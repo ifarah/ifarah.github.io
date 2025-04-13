@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img align="center" width="130%" height="50%" src="images/police.jpeg">
 
 **Peer-Reviewed Publications**
 
