@@ -8,7 +8,7 @@ header:
 ---
 My research is divided into three interconnected categories: **Governance and informality**, **food retail**, and **methods**. These areas inform and build upon one another in my work.
 
-## Governance and informality  
+## <ins>Governance and informality<ins>
 
 ### Power of street vending associations and state formation in Mexico City
 
