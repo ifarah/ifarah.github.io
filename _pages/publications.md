@@ -20,7 +20,7 @@ T. (2022) [Food and beverage purchases at formal and informal outlets in Mexico]
 
 **Book Chapters** 
 
-- Hayden, T. B., **Farah I.** (2025) [“Urban Governance and the Regulation of Street Food Vending In Latin America.”](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003471929-4/urban-governance-regulation-street-food-vending-latin-america-tiana-baki%C4%87-hayden-irene-farah) In: Urban Food Systems in Latin America: Territories, Mobilities and Governance. Ed. by Tiana Bakić Hayden and Joaquín Pérez Martín. London: Routledge. pp. 1–17
+- Hayden, T. B., **Farah I.** (2025) [“Urban Governance and the Regulation of Street Food Vending In Latin America.”](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003471929-4/urban-governance-regulation-street-food-vending-latin-america-tiana-baki%C4%87-hayden-irene-farah) In: Urban Food Systems in Latin America: Territories, Mobilities and Governance. Ed. by Tiana Bakić Hayden and Joaquín Pérez Martín. London: Routledge.
 
 - Anselin, L, **Farah I.** (2023) [”The life and death of retail: insights from firm demography.”](https://www.researchgate.net/publication/370427733_The_Life_and_Death_of_Retail_Insights_from_Firm_Demography) In [Streetlife: The Future of Urban
 Retail.](https://utorontopress.com/9781487524814/streetlife/) Eds. Talen, E and Kickert, C. University of Toronto Press.
