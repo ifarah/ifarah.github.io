@@ -43,7 +43,7 @@ Science Working Paper). University of Chicago.
 
 - **Farah, I.**, Governing the Governable: The Implementation of San Francisco’s Street Vending Policy. *International Journal of Urban and Regional Research.*
   
-- **Farah, I.**, Devlin, R.T., Hartmann, C., Harvey, J., and Hegel, C. “The Governance of Informal Work in Cities of the Global North.” *Nature Cities.*
+- **Farah, I.**, Devlin, R.T., Hartmann, C., Harvey, J., and Hegel, C. “The Governance of Informal Street Work in San Francisco and New York City.” *Nature Cities.*
 
 - **Farah, I.**, Kelling, C., Leng, X., Zhao, Y. “Building a Longitudinal Geospatial Dataset of Micro-businesses in Mexico City.” *Environment and Planning B: Urban Analytics and City Science.*
 
