@@ -81,8 +81,8 @@ navbar-links:
   Moi: "aboutme"
   Projects:
     - Hell Game: "http://deanattali.com/beautiful-jekyll/"
-    - Success City: "https://ifarah.github.io/cv/main_cv.pdf"
-  Resume: "https://ifarah.github.io/cv/main_cv.pdf"
+    - Success City: "/files/april2025_main_cv.pdf"
+  Resume: "/files/april2025_main_cv.pdf"
   
 # Site Author
 author:
