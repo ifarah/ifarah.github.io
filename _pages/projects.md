@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 header:
-  og_image: "images/bunny.png"
+  og_image: "/images/bunny.png"
 ---
 My research is divided into three interconnected categories: **Governance and informality**, **food retail**, and **methods**. These areas inform and build upon one another in my work.
 
@@ -16,7 +16,7 @@ My research is divided into three interconnected categories: **Governance and in
 
 Public space is a key element of the spatial organization of cities, shedding light on the relationships between state and society. At least from the 19th century, street vendors have claimed and negotiated with Mexico City’s government their access to public space in order to make a living. However, the evolution of street vending associations in their relationship with how the state shapes and controls these associations beyond clientelist practices, and how it has varied across boroughs outside of the Historic Center has not yet been examined. In this context, this project examines the extent to which street vending associations regulate and manage public space.  This project focuses on an over-time comparison at the city level over the course of three periods of time that cover the rule of three different political parties: pre-1997 (PRI rule); 1997-2018 (Partido Revolucionario Democrático, PRD rule); 2018-today (Movimiento de Regeneración Nacional, MORENA rule).
 
-\vspace{1em} 
+
 
 ### The implementation of a street vending ordinance in the Mission District, San Francisco  
 
@@ -25,7 +25,7 @@ Public space is a key element of the spatial organization of cities, shedding li
 
 The government framed the urgency of creating the street vending ordinance around the conspicuous vending of stolen goods and drugs happening outside the 24th and Mission subway station. However, the street vending ordinance missed its target, implementing regulatory measures for street vendors that were not involved in selling stolen goods or drugs. This study  examines the reaction of vendors, community organizations, and street level bureaucrats (e.g., district supervisors, public works officials, and police officers) to the implementation of the street vending ordinance. In particular, this project traces the dynamism of the implementation and explores the unintended socioeconomic consequences of its implementation at the city level.
 
-\vspace{1em} 
+
 
 ### Mobility of informal workers in Mexico City  
 
