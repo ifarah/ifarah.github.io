@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <img align="center" width="90%" height="30%" src="/images/police.png">
+<p align="right">Foto credit: [Héctor Farah](https://www.instagram.com/farahhector)</p>
 
 
 **Peer-Reviewed Publications**
