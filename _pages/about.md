@@ -14,7 +14,7 @@ header:
 
 Welcome! I am a Distinguished Postdoctoral Research Associate at the University of Illinois Urbana-Champaign (UIUC) Department of [Urban and Regional Planning](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). My research focuses on **urban politics**, **informality**, **food systems**, and **spatial methods**. I received my Ph.D. in City and Regional Planning from the University of California, Berkeley.
 
-<sub>You can find my [CV here](https://ifarah.github.io/cv/main_cv.pdf).<sub>
+<sub>You can find my [CV here](/assets/files/april2025_main_cv.pdf).<sub>
 
 My most recent research studies how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
 
