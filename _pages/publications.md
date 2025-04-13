@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img align="center" width="130%" height="50%" src="images/police.jpeg">
+<img align="center" width="130%" height="50%" src="images/police.png">
 
 **Peer-Reviewed Publications**
 
@@ -42,13 +42,14 @@ Science Working Paper). University of Chicago.
 **Under Revision and In Preparation**  
 
 - **Farah, I.**, Governing the Governable: The Implementation of San Francisco’s Street Vending Policy. International Journal of Urban and Regional Research.
-
-- **Farah I.**, Domínguez‑Barreto, A.P., López‑Olmedo, N., Pérez‑Ferrer, C., Ramírez, Y., Langellier, B.A., Colchero, M.A, Rivera,
-J.A., Barrientos‑Gutierrez, T, and Stern, D. Changes in the healthfulness of food and beverage purchases from 2006 to
-2020 in formal, mixed, and informal outlets in Mexico. BMC Health.
   
-- **Farah, I.**, Credit, K., Anselin, L, and Talen, E. An open source method for developing spatially‑granular walkable accessibility
-metrics and associated exploration of changes in walkability in six US cities from 1990‑2010. Environment and Planning
+- **Farah, I.**, Devlin, R.T., Hartmann, C., Harvey, J., and Hegel, C. “The Governance of Informal Work in Cities of the Global North.” Nature Cities.
+
+- **Farah, I.**, Kelling, C., Leng, X., Zhao, Y. “Building a Longitudinal Geospatial Dataset of Micro-businesses in Mexico City.” Environment and Planning B: Urban Code Urban Analytics and City Science.
+
+- **Farah, I.** Reading the Street: A Methodological Approach for Urban Governance Research.” Journal of Planning Education and Research.
+  
+- Credit, K., **Farah, I.**, Talen, E, Anselin, L, and Ghomrawi, H. The Walkable Accessibility Score (WAS): A spatially-granular open-source measure of walkability for the continental US from 1997-2019. Environment and Planning
 B: Urban Analytics and City Science.
 
 - **Farah I.** ”The Informal Economy and Urban Design.” In The Routledge Handbook of Urban Design Practice. Eds. Larice, M.,
@@ -61,7 +62,6 @@ Urbana. Eds. Keoseyan, S. Bonilla Rius, In Review.
   
 - **Farah, I.** Variation of Brokers’ Bargaining Power in Space: The Governance of Mexico City’s Tianguis.
 
-- Bakić Hayden, T., **Farah, I.** "Urban governance and the regulation of street food vending in Latin America." *Urban Food Systems in Latin America: Territories, Mobilities, Actors.* Eds. Bakić Hayden, T., Pérez Martín, J. Routledge.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
