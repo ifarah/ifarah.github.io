@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img align="center" width="130%" height="50%" src="images/police.png">
+
 **Peer-Reviewed Publications**
 
 - Domínguez-Barreto, A. P., **Farah, I.**, López-Olmedo, N., Pérez-Ferrer, C., Ramírez, Y., Langellier, B. A., Colchero, M., Rivera, J. A., Barrientos-Gutierrez, T., Stern, D. (2025) [Changes in the healthfulness of food and beverage purchases from 2006 to 2022 by outlet type in Mexico](https://doi.org/10.1186/s12916-025-04036-8). *BMC Medicine*.
