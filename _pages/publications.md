@@ -9,7 +9,7 @@ author_profile: true
 
 **Peer-Reviewed Publications**
 
-- Domínguez-Barreto, A. P., **Farah, I.**, López-Olmedo, N., Pérez-Ferrer, C., Ramírez, Y., Langellier, B. A., Colchero, M., Rivera, J. A., Barrientos-Gutierrez, T., Stern, D.. (2025) [Changes in the healthfulness of food and beverage purchases from 2006 to 2022 by outlet type in Mexico](https://doi.org/10.1186/s12916-025-04036-8). *BMC Medicine*.
+- Domínguez-Barreto, A. P., **Farah, I.**, López-Olmedo, N., Pérez-Ferrer, C., Ramírez, Y., Langellier, B. A., Colchero, M., Rivera, J. A., Barrientos-Gutierrez, T., Stern, D. (2025) [Changes in the healthfulness of food and beverage purchases from 2006 to 2022 by outlet type in Mexico](https://doi.org/10.1186/s12916-025-04036-8). *BMC Medicine*.
 
 - Ju, Y., Dronova, I., Rodríguez, D., Bakhtsiyarava, M., and **Farah, I.** (2023). [Recent greening may curb urban warming in Latin American cities of better economic conditions](https://doi.org/10.1016/j.landurbplan.2023.104896). *Landscape and Urban Planning*.   
   
@@ -41,16 +41,16 @@ Science Working Paper). University of Chicago.
 
 **Under Revision and In Preparation**  
 
-- **Farah, I.**, Governing the Governable: The Implementation of San Francisco’s Street Vending Policy. International Journal of Urban and Regional Research.
+- **Farah, I.**, Governing the Governable: The Implementation of San Francisco’s Street Vending Policy. *International Journal of Urban and Regional Research.*
   
-- **Farah, I.**, Devlin, R.T., Hartmann, C., Harvey, J., and Hegel, C. “The Governance of Informal Work in Cities of the Global North.” Nature Cities.
+- **Farah, I.**, Devlin, R.T., Hartmann, C., Harvey, J., and Hegel, C. “The Governance of Informal Work in Cities of the Global North.” *Nature Cities.*
 
-- **Farah, I.**, Kelling, C., Leng, X., Zhao, Y. “Building a Longitudinal Geospatial Dataset of Micro-businesses in Mexico City.” Environment and Planning B: Urban Code Urban Analytics and City Science.
+- **Farah, I.**, Kelling, C., Leng, X., Zhao, Y. “Building a Longitudinal Geospatial Dataset of Micro-businesses in Mexico City.” *Environment and Planning B: Urban Analytics and City Science.*
 
-- **Farah, I.** Reading the Street: A Methodological Approach for Urban Governance Research.” Journal of Planning Education and Research.
+- **Farah, I.** Reading the Street: A Methodological Approach for Urban Governance Research.” *Journal of Planning Education and Research.*
   
-- Credit, K., **Farah, I.**, Talen, E, Anselin, L, and Ghomrawi, H. The Walkable Accessibility Score (WAS): A spatially-granular open-source measure of walkability for the continental US from 1997-2019. Environment and Planning
-B: Urban Analytics and City Science.
+- Credit, K., **Farah, I.**, Talen, E, Anselin, L, and Ghomrawi, H. The Walkable Accessibility Score (WAS): A spatially-granular open-source measure of walkability for the continental US from 1997-2019. *Environment and Planning
+B: Urban Analytics and City Science.*
 
 - **Farah I.** ”The Informal Economy and Urban Design.” In The Routledge Handbook of Urban Design Practice. Eds. Larice, M.,
 O’Neill Robinson, M., and Penniman, A. Routledge, In Review.
