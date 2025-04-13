@@ -6,9 +6,10 @@ author_profile: true
 header:
   og_image: "images/bunny.png"
 ---
-My research is divided in three main categories: **Governance**, **food**, and **methods**.
+My research is divided into three interconnected categories: **Governance and informality**, **food retail**, and **methods**. These areas inform and build upon one another in my work.
 
-## Governance
+## Governance and informality  
+
 ### Power of street vending associations and state formation in Mexico City
 
 <img align="left" width="30%"  style="float:left; padding-right:10px" src="/images/mamey2.png">
