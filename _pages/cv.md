@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 <iframe src="{{ base_path }}/files/april2025_main_cv.pdf" width="100%" height="800px" frameborder="0"></iframe>
-  
-
