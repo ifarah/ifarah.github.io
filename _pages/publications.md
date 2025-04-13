@@ -3,8 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-header:
-  og_image: "/images/bunny.png"
+redirect_from:
+  - /resume
 ---
 
 <div>
