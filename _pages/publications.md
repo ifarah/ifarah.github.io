@@ -9,6 +9,8 @@ author_profile: true
 
 **Peer-Reviewed Publications**
 
+- Domínguez-Barreto, A. P., **Farah, I.**, López-Olmedo, N., Pérez-Ferrer, C., Ramírez, Y., Langellier, B. A., Colchero, M., Rivera, J. A., Barrientos-Gutierrez, T., Stern, D.. (2025) [Changes in the healthfulness of food and beverage purchases from 2006 to 2022 by outlet type in Mexico](https://doi.org/10.1186/s12916-025-04036-8). *BMC Medicine*.
+
 - Ju, Y., Dronova, I., Rodríguez, D., Bakhtsiyarava, M., and **Farah, I.** (2023). [Recent greening may curb urban warming in Latin American cities of better economic conditions](https://doi.org/10.1016/j.landurbplan.2023.104896). *Landscape and Urban Planning*.   
   
 - Domínguez‑Barreto, A.P., **Farah I.**, López‑Olmedo, N., Pérez‑Ferrer, C., Ramírez, Y., Barrientos‑Gutierrez, T, and Stern, D. (2023) [Trends in food and beverage purchases in informal and formal outlets in Mexico: ENIGH 1994‑2020](https://doi.org/10.3389/fpubh.2023.1151916). *Frontiers*.
@@ -17,6 +19,8 @@ author_profile: true
 T. (2022) [Food and beverage purchases at formal and informal outlets in Mexico](https://doi.org/10.1017/S1368980022002324). *Public Health Nutrition*.
 
 **Book Chapters** 
+
+- Hayden, T. B., **Farah I.** (2025) [“Urban Governance and the Regulation of Street Food Vending In Latin America.”](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003471929-4/urban-governance-regulation-street-food-vending-latin-america-tiana-baki%C4%87-hayden-irene-farah) In: Urban Food Systems in Latin America: Territories, Mobilities and Governance. Ed. by Tiana Bakić Hayden and Joaquín Pérez Martín. London: Routledge. pp. 1–17
 
 - Anselin, L, **Farah I.** (2023) [”The life and death of retail: insights from firm demography.”](https://www.researchgate.net/publication/370427733_The_Life_and_Death_of_Retail_Insights_from_Firm_Demography) In [Streetlife: The Future of Urban
 Retail.](https://utorontopress.com/9781487524814/streetlife/) Eds. Talen, E and Kickert, C. University of Toronto Press.
