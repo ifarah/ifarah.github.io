@@ -28,7 +28,7 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
   
 ---------
 
-¡Hola! Actualmente soy una postdoc en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos espaciales**. Recibí mi doctorado en Planeación Urbana en la Universidad de California, Berkeley.
+¡Hola! Actualmente soy Profesora Asistente en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos espaciales**. Recibí mi doctorado en Planeación Urbana en la Universidad de California, Berkeley.
 
 <sub>Pueden encontrar mi [CV en español aquí](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing).<sub>
 
