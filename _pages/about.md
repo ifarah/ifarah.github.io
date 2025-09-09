@@ -14,7 +14,7 @@ header:
 
 Welcome! I am an Assistant Professor at the University of Illinois Urbana-Champaign (UIUC) Department of [Urban and Regional Planning](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). My research focuses on **urban politics**, **informality**, **food systems**, and **spatial methods**. I received my Ph.D. in City and Regional Planning from the University of California, Berkeley.
 
-<sub>You can find my [CV here](/files/aug2025_main_cv.pdf).<sub>
+<sub>You can find my [CV and list of publications here](/files/aug2025_main_cv.pdf).<sub>
 
 My most recent research studies how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
 
@@ -30,7 +30,7 @@ Previously, I worked at the [Center for Spatial Data Science at the University o
 
 ¡Hola! Actualmente soy Profesora Asistente en [Urban and Regional Planning at the University of Illinois at Urbana-Champaign (UIUC)](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). Mi investigación gira alrededor de temas de **política urbana**, **informalidad**, **sistemas de comida**, y **métodos espaciales**. Recibí mi doctorado en Planeación Urbana en la Universidad de California, Berkeley.
 
-<sub>Pueden encontrar mi [CV en español aquí](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing).<sub>
+<sub>Pueden encontrar mi [CV y lista de publicaciones en español aquí](https://drive.google.com/file/d/1h1eI3hdE-iEbkJ-h0zkqbZmPhEYXaJMl/view?usp=sharing).<sub>
 
 Mi investigación más reciente se enfoca en cómo las **regulaciones** y la **intermediación entre gobiernos locales y comerciantes en vía pública** impacta la asignación y lucha por el espacio en la Ciudad de México y San Francisco.
 
