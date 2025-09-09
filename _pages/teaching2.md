@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
   
-### <ins>UIUCy<ins>
+### <ins>UIUC<ins>
 * **Cities: Planning and Urban Life**, *Fall 2025*
 
 ### <ins>UC Berkeley<ins>
