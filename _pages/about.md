@@ -36,7 +36,7 @@ Mi investigación más reciente se enfoca en cómo las **regulaciones** y la **i
 
 En colaboración con el Instituto Nacional de Salud Pública de México, también he estudiado la variación geográfica de establecimientos de comida saludable y **el rol que los los establecimientos informales juegan en los entornos alimentarios**.
 
-Además, he empleado una **amplia gama de enfoques metodológicos** además de los métodos etnográficos: examinando métricas de accesibilidad espacial, aplicando demografía matemática para examinar la dinámica de las empresas y analizando olas de calor a través de remote sensing. En la actualidad estoy trabajando en la implementación de métodos innovadores que he utilizado anteriormente para estudiar el comercio popular a través de datos de celulares, análisis de punto e imágenes satelitales.
+He empleado una **amplia gama de enfoques metodológicos** además de los métodos etnográficos: examinando métricas de accesibilidad espacial, aplicando demografía matemática para examinar la dinámica de las empresas y analizando olas de calor a través de remote sensing. En la actualidad estoy trabajando en la implementación de métodos innovadores que he utilizado anteriormente para estudiar el comercio popular a través de datos de celulares, análisis de punto e imágenes satelitales.
 
 Anteriormente, trabajé en el [Centro de Ciencia de Datos Espaciales en la Universidad de Chicago](https://spatial.uchicago.edu/), donde cursé mi maestría en Ciencias Sociales y previo a eso trabajé en el [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx) (Consejo Nacional de Evaluación de la Política de Desarrollo Social) en la Ciudad de México. También obtuve mi licenciatura en Ciencia Política en el [ITAM](https://www.itam.mx/).
   
