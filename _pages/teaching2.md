@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
   
+### <ins>UIUCy<ins>
+* **Cities: Planning and Urban Life**, *Fall 2025*
+
 ### <ins>UC Berkeley<ins>
 * Graduate Student Instructor in **Planning Methods Gateway: Part I**, *Fall 2022*
 * Instructor in **Maps as Social Justice Interventions**, *Summer 2022*
