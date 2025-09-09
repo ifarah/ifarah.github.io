@@ -15,6 +15,8 @@ redirect_from:
 
 **Peer-Reviewed Publications**
 
+- **Farah, I.**, Devlin, R. T., Hartmann, C., Harvey, J., & Hegel, C. (2025). [The Governance of Informal Street work in San Francisco and New York City](https://rdcu.be/eE8KS). *Nature Cities*, 1–6. 
+
 - Domínguez-Barreto, A. P., **Farah, I.**, López-Olmedo, N., Pérez-Ferrer, C., Ramírez, Y., Langellier, B. A., Colchero, M., Rivera, J. A., Barrientos-Gutierrez, T., Stern, D. (2025) [Changes in the healthfulness of food and beverage purchases from 2006 to 2022 by outlet type in Mexico](https://doi.org/10.1186/s12916-025-04036-8). *BMC Medicine*.
 
 - Ju, Y., Dronova, I., Rodríguez, D., Bakhtsiyarava, M., and **Farah, I.** (2023). [Recent greening may curb urban warming in Latin American cities of better economic conditions](https://doi.org/10.1016/j.landurbplan.2023.104896). *Landscape and Urban Planning*.   
