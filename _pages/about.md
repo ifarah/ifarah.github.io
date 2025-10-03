@@ -12,18 +12,17 @@ header:
 
 <img align="center" width="130%" height="50%" src="images/mural.png">
 
-Welcome! I am an Assistant Professor at the University of Illinois Urbana-Champaign (UIUC) Department of [Urban and Regional Planning](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). My research focuses on **urban politics**, **informality**, **food systems**, and **spatial methods**. I received my Ph.D. in City and Regional Planning from the University of California, Berkeley.
+Welcome! I am an Assistant Professor at the University of Illinois Urbana-Champaign (UIUC) Department of [Urban and Regional Planning](https://urban.illinois.edu/people/profiles/irene-farah-rivadeneyra/). My research bridges political science and urban planning, exploring how political relationships across multiple levels of government and the organizational networks that mediate them shape urban governance, resource allocation, and the management of informal processes in cities.
+
+My research spans two interconnected streams:
+- The first examines multilevel governance, tracing how political alignment across government levels and non-state organizations (brokers), shape state capacity and produce divergent outcomes in the allocation of resources.
+- The second studies the dynamics of urban governance using a combination of advanced computational techniques, spatial analysis, and ethnographic fieldwork.
+Through comparative research in Mexico City and San Francisco, I examine how political intermediation and bureaucratic coordination shape the management of informal urban processes, revealing the durability or fragility of governance patterns across regime transitions and institutional reforms.
+
+Before beginning my doctoral studies at UC Berkeley, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/) while completing my Master’s in Social Sciences, focusing on spatial approaches to food environments and retail research. I also worked at the National Council for the Evaluation of Social Development Policy ([CONEVAL](https://www.coneval.org.mx/)) in Mexico City, contributing to poverty measurement and social development research. I also hold a B.A. in Political Science from [ITAM](https://www.itam.mx/). 
+
 
 <sub>You can find my [CV and list of publications here](/files/Farah_CV_GitHub.pdf).<sub>
-
-My most recent research studies how **regulations** and the **intermediation between local governments and street vendors** impact how public space is assigned and contested in Mexico City and San Francisco.
-
-Jointly with the National Institute of Health in Mexico, I have also studied how food outlets' healthfulness varies geographically and **the role of informal outlets in food environments**.
-
-I have also employed a **wide range of methodological approaches** besides ethnographic methods: examining spatial accessibility metrics, applying mathematical demography to examine firm dynamics, and analyzing heat waves through remote sensing. In current projects, I am working on deploying innovative methods I have learned in previous projects to study street vending, such as mobile data, point pattern analysis, and satellite imagery. 
-
-Previously, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), where I also did my Master's in Social Sciences and before that I worked at the National Council for the Evaluation of Social Development ([CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx)) in Mexico City. I also hold a B.A. in Political Science from [ITAM](https://www.itam.mx/). 
-
 
   
 ---------
