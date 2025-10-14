@@ -23,7 +23,7 @@ Through comparative research in Mexico City and San Francisco, I examine how pol
 Before beginning my doctoral studies at UC Berkeley, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/) while completing my Master’s in Social Sciences, focusing on spatial approaches to food environments and retail research. I also worked at the National Council for the Evaluation of Social Development Policy ([CONEVAL](https://www.coneval.org.mx/)) in Mexico City, contributing to poverty measurement and social development research. I also hold a B.A. in Political Science from [ITAM](https://www.itam.mx/). 
 
 
-<sub>You can find my [CV and list of publications here](/files/Farah_CV_GitHub.pdf).<sub>
+**You can find my [CV and list of publications here](/files/Farah_CV_GitHub.pdf).**
 
   
 ---------
