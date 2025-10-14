@@ -17,6 +17,7 @@ Welcome! I am an Assistant Professor at the University of Illinois Urbana-Champa
 My research spans two interconnected streams:
 - The first examines multilevel governance, tracing how political alignment across government levels and non-state organizations (brokers), shape state capacity and produce divergent outcomes in the allocation of resources.
 - The second studies the dynamics of urban governance using a combination of advanced computational techniques, spatial analysis, and ethnographic fieldwork.
+  
 Through comparative research in Mexico City and San Francisco, I examine how political intermediation and bureaucratic coordination shape the management of informal urban processes, revealing the durability or fragility of governance patterns across regime transitions and institutional reforms.
 
 Before beginning my doctoral studies at UC Berkeley, I worked at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/) while completing my Master’s in Social Sciences, focusing on spatial approaches to food environments and retail research. I also worked at the National Council for the Evaluation of Social Development Policy ([CONEVAL](https://www.coneval.org.mx/)) in Mexico City, contributing to poverty measurement and social development research. I also hold a B.A. in Political Science from [ITAM](https://www.itam.mx/). 
