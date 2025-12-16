@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
   
 ### <ins>UIUC<ins>
+* **Introduction to Urban Data Science**, *Spring 2026*  
 * **Cities: Planning and Urban Life**, *Fall 2025*
 
 ### <ins>UC Berkeley<ins>
