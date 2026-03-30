@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
   
 ### <ins>UIUC<ins>
-* **Introduction to Urban Data Science**, *Spring 2026*  
-* **Cities: Planning and Urban Life**, *Fall 2025*
+* **Research Design and Methods**, *Fall 2026*
+* **[Introduction to Urban Data Science](https://docs.google.com/document/d/17YMUziU0wz60LBwl5tZ0Q7Cs1PE464q1/edit)**, *Spring 2026*  
+* **Cities: Planning and Urban Life**, *Fall 2025, 2026*
 
 ### <ins>UC Berkeley<ins>
 * Graduate Student Instructor in **Planning Methods Gateway: Part I**, *Fall 2022*
