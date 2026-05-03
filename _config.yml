@@ -88,9 +88,10 @@ navbar-links:
 author:
   name             : "Irene Farah"
   avatar           : "bio_irene.jpg"
-  bio              : "<strong>Assistant Professor</strong>, /nUrban & Regional Planning,   
-                      /nCenter for Latin American Studies  
-                      /n National Center for Supercomputing Applications"
+  bio              : "<strong>Assistant Professor</strong>
+                      <br>Urban & Regional Planning   
+                      <br>Center for Latin American Studies  
+                      <br>National Center for Supercomputing Applications"
   location         : "UIUC, Champaign, IL, USA"
   employer         :
   pubmed           :
