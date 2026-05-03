@@ -88,10 +88,10 @@ navbar-links:
 author:
   name             : "Irene Farah"
   avatar           : "bio_irene.jpg"
-  bio              : "Assistant Professor, Urban & Regional Planning, UIUC  
-                      Affiliate, Center for Latin American Studies  
-                      Affiliate, NCSA"
-  location         : "Champaign, IL, USA"
+  bio              : "Assistant Professor, /nUrban & Regional Planning,   
+                      /nCenter for Latin American Studies  
+                      /n National Center for Supercomputing Applications"
+  location         : "UIUC, Champaign, IL, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=a_nZ89EAAAAJ&hl=en"
