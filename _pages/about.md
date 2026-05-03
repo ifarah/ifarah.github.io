@@ -9,7 +9,9 @@ redirect_from:
 header:
   og_image: "/images/bunny.png"
 ---
+
 <img align="center" width="130%" height="50%" src="images/mural.png">
+
 
 **Assistant Professor, Department of Urban and Regional Planning, UIUC**  
 Affiliate, Center for Latin American Studies | Affiliate, National Center for Supercomputing Applications
