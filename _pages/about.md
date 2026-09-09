@@ -18,6 +18,11 @@ Welcome! I am an Assistant Professor at the University of Illinois Urbana-Champa
 
 Through comparative research in Mexico City and San Francisco, I study how political intermediation and bureaucratic coordination shape the governance of informal urban processes, revealing the durability or fragility of governance patterns across regime transitions and institutional reforms. My work combines ethnographic fieldwork with computational spatial analysis, including location-based services data, satellite imagery, and spatial econometrics.
 
-Before my doctoral studies at UC Berkeley, I worked at the [Center for Spatial Data Science](https://spatial.uchicago.edu/) at the University of Chicago and at Mexico's National Council for Social Development Policy Evaluation ([CONEVAL](https://www.coneval.org.mx/)). I hold a B.A. in Political Science from [ITAM](https://www.itam.mx/).
+Before my doctoral studies at UC Berkeley, I worked at the [Center for Spatial Data Science](https://spatial.uchicago.edu/) at the University of Chicago and at Mexico's National Council for Social Development Policy Evaluation ([CONEVAL](https://www.coneval.org.mx/)).
+
+###Education
+- Ph.D., City and Regional Planning, University of California, Berkeley  
+- M.A., Social Sciences, University of Chicago  
+- B.A., Political Science, Instituto Tecnológico Autónomo de México ([ITAM](https://www.itam.mx/)).
 
 **[CV and publications →](/files/Farah_CV_GitHub.pdf)**
