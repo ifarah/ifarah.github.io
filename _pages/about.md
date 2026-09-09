@@ -23,6 +23,6 @@ Before my doctoral studies at UC Berkeley, I worked at the [Center for Spatial D
 ### Education
 - Ph.D., City and Regional Planning, University of California, Berkeley  
 - M.A., Social Sciences, University of Chicago  
-- B.A., Political Science, Instituto Tecnológico Autónomo de México ([ITAM](https://www.itam.mx/)).
+- B.A., Political Science, Instituto Tecnológico Autónomo de México (ITAM)
 
 **[CV and publications →](/files/Farah_CV_GitHub.pdf)**
