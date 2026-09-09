@@ -20,7 +20,7 @@ Through comparative research in Mexico City and San Francisco, I study how polit
 
 Before my doctoral studies at UC Berkeley, I worked at the [Center for Spatial Data Science](https://spatial.uchicago.edu/) at the University of Chicago and at Mexico's National Council for Social Development Policy Evaluation ([CONEVAL](https://www.coneval.org.mx/)).
 
-#### Education
+### Education
 - Ph.D., City and Regional Planning, University of California, Berkeley  
 - M.A., Social Sciences, University of Chicago  
 - B.A., Political Science, Instituto Tecnológico Autónomo de México (ITAM)
